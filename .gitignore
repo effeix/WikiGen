@@ -33,3 +33,6 @@
 
 # Executable
 src/wikigen
+
+# Libs
+lib/
