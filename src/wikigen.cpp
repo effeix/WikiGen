@@ -8,7 +8,7 @@ void print(std::string str)
 	std::cout << str << std::endl;
 }
 
-int main()
+int main(int argc, char const *argv[])
 {
 	pugi::xml_document doc;
 	pugi::xml_parse_result result = doc.load_file(TEST_FILENAME);
