@@ -6,23 +6,6 @@
 
 
 // Based on: https://github.com/errollw/gengram/blob/master/gengram.py
-std::vector<std::vector<std::string>> make_ngrams(std::vector<std::string>& corpus, unsigned int n) {
-	
-	std::vector<std::vector<std::string>> ngrams;
-	
-	for(unsigned int i = 0; i < corpus.size() - n + 1; i++) {
-		std::vector<std::string> words;
-
-		for(unsigned int j = 0; j < n; j++) {
-			words.push_back(corpus[i + j]);
-		}
-
-		ngrams.push_back(words);
-	}
-
-	return ngrams; // [[w1,w2,wn],[w19,w48,wn],...]
-}
-
 std::vector<std::vector<std::string>> make_ngrams_2(std::vector<std::string>& corpus, unsigned int n) {
 	
 	std::vector<std::vector<std::string>> ngrams;
@@ -30,8 +13,8 @@ std::vector<std::vector<std::string>> make_ngrams_2(std::vector<std::string>& co
 	for(unsigned int i = 0; i < corpus.size() - n + 1; i++) {
 		std::vector<std::string> words;
 
-		words.insert(words.begin(), words.begin()+i, words.begin()+i+n);
-
+		words.insert(words.end(), corpus.begin()+i, corpus.begin()+i+n);
+		
 		ngrams.push_back(words);
 	}
 
@@ -60,7 +43,7 @@ int main(int argc, char const *argv[]) {
 	std::vector<std::string> mini_corpus = read_xml(filename);
 
 	unsigned int ngram_n = N;
-	std::vector<std::vector<std::string>> ngrams = make_ngrams(mini_corpus, ngram_n);
+	std::vector<std::vector<std::string>> ngrams = make_ngrams_2(mini_corpus, ngram_n);
 
 	print_ngrams(ngrams);
 
