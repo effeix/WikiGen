@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <cstdlib>
 #include <fstream>
 #include <iostream>
@@ -47,6 +48,7 @@ std::vector<std::string> tokenize(std::string& content) {
 
 void sanitize(std::string& content) {
 	std::replace_if(content.begin(), content.end(), is_unwanted_char, ' ');
+	std::transform(content.begin(), content.end(), content.begin(), ::tolower);
 }
 
 bool is_unwanted_char(char c) {
