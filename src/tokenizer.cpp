@@ -1,36 +1,54 @@
-#include <iostream>
+#include <cstdlib>
 #include <fstream>
+#include <iostream>
 #include <string>
 #include <vector>
 
-//#include "../lib/boost_1_67_0/tokenizer.hpp"
+#include <boost/tokenizer.hpp>
 #include "../lib/pugixml-1.9/pugixml.hpp"
 
-std::vector<std::string> read_documents_file(std::string fname) {
-	std::ifstream infile;
-	std::vector<std::string> documents;
-	std::string document;
+#include "../inc/tokenizer.hpp"
 
-	infile.open(fname);
+std::vector<std::string> read_xml(std::string& fname) {
+	pugi::xml_document document;
 
-	while(!infile.eof()) {
-		getline(infile, document);
-		documents.push_back(document);
+	if(!document.load_file(fname.c_str())) {
+        std::cout << "Error while reading file. Exiting..." << std::endl;
+        exit(EXIT_FAILURE); 
+    }
+
+	pugi::xml_node root = document.child("mediawiki");
+
+	std::vector<std::string> mini_corpus;
+
+	for(pugi::xml_node page: root.children("page")) {
+		std::string content = page.child("revision").child_value("text");
+		
+		sanitize(content);
+		std::vector<std::string> tokenized = tokenize(content);
+		
+		mini_corpus.insert(mini_corpus.end(), tokenized.begin(), tokenized.end());
 	}
 
-	infile.close();
-
-	return documents;
+	return mini_corpus;
 }
 
-std::vector<std::string> readXML(std::string& fname) {
-	pugi::xml_document document;
-	pugi::xml_parse_result result = document.load_file(fname.c_str());
-	pugi::xml_node document_root = document.child("mediawiki");
+std::vector<std::string> tokenize(std::string& content) {
+	tokenizer tok{content};
 
-	std::vector<std::string> documents;
+	std::vector<std::string> tokenized;
 
-	// for(pugi::xml_node page: document_root.children("page")) {
+	for(tokenizer::iterator i = tok.begin(); i != tok.end(); ++i) {
+		tokenized.push_back(*i);
+	}
 
-	// }
+	return tokenized;
+}
+
+void sanitize(std::string& content) {
+	std::replace_if(content.begin(), content.end(), is_unwanted_char, ' ');
+}
+
+bool is_unwanted_char(char c) {
+	return !(c == '.' || c == ',' || c == '!' || c == '?' || c == ':' || c == ';') && !std::isalpha(c);
 }

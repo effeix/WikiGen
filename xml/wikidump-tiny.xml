@@ -1,0 +1,2166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.31.0-wmf.26</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charles Arthur Uryan Rhys</title>
+    <ns>0</ns>
+    <id>7697599</id>
+    <redirect title="Charles Rhys, 8th Baron Dynevor" />
+    <revision>
+      <id>84676795</id>
+      <timestamp>2006-10-30T19:34:20Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>#REDIRECT [[Charles Rhys, 8th Baron Dynevor]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Charles Rhys, 8th Baron Dynevor]]</text>
+      <sha1>9jz4udbidwxfa2wgb1mean51iq5vh4k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:85.134.178.192</title>
+    <ns>3</ns>
+    <id>7697601</id>
+    <revision>
+      <id>84676841</id>
+      <timestamp>2006-10-30T19:34:34Z</timestamp>
+      <contributor>
+        <username>Angusmclellan</username>
+        <id>203730</id>
+      </contributor>
+      <comment>test2</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Please do not add nonsense to Wikipedia{{#if:Dangerous Minds|, as you did to [[:Dangerous Minds]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; [[User:Angusmclellan|Angus McLellan]]  [[User talk:Angusmclellan|(Talk)]] 19:34, 30 October 2006 (UTC)</text>
+      <sha1>6o9e5fm2wx7dpuafh20i7mgsvlbdz2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Camaro4</title>
+    <ns>3</ns>
+    <id>7697602</id>
+    <revision>
+      <id>84676846</id>
+      <timestamp>2006-10-30T19:34:37Z</timestamp>
+      <contributor>
+        <username>Xaosflux</username>
+        <id>502540</id>
+      </contributor>
+      <comment>Welcome! an d[[Wikipedia:Miscellany for deletion/User:Camaro4]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== Welcome {{PAGENAME}}! ==
+{| style=&quot;font-size:95%;&quot; class=toccolours
+|Hello, {{PAGENAME}}, I'm [[User:Xaosflux|xaosflux]] and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Simplified Ruleset|The simplified rules of Wikipedia]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Help|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign_your_posts_on_talk_pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date, and use [[Wikipedia:Edit summary|edit summaries]] whenever you change a page. If you have any questions, need help or assistance, check out [[Wikipedia:Ask a question]] or contact me on [[User talk:Xaosflux|my talk page]]. Again, welcome! Enjoy Wikipedia!!&amp;nbsp;
+|} — [[User:Xaosflux|&lt;b&gt;&lt;font color=&quot;#FF9933&quot; face=&quot;monotype&quot;&gt;&lt;big&gt;xaosflux&lt;/big&gt;&lt;/font&gt;&lt;/b&gt;]] &lt;sup&gt;[[User_talk:Xaosflux|&lt;font color=&quot;#00FF00&quot;&gt;Talk&lt;/font&gt;]]&lt;/sup&gt; 19:34, 30 October 2006 (UTC)
+
+Your initial userpage was deleted per [[Wikipedia:Miscellany for deletion/User:Camaro4]].  Please see [[WP:USERPAGE]] for our userpage policy. Thank you, — [[User:Xaosflux|&lt;b&gt;&lt;font color=&quot;#FF9933&quot; face=&quot;monotype&quot;&gt;&lt;big&gt;xaosflux&lt;/big&gt;&lt;/font&gt;&lt;/b&gt;]] &lt;sup&gt;[[User_talk:Xaosflux|&lt;font color=&quot;#00FF00&quot;&gt;Talk&lt;/font&gt;]]&lt;/sup&gt; 19:34, 30 October 2006 (UTC)</text>
+      <sha1>6y2gt0jtz4nbo340khwhzjzxz0zrbsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Ethancavett</title>
+    <ns>3</ns>
+    <id>7697603</id>
+    <revision>
+      <id>84677654</id>
+      <parentid>84677255</parentid>
+      <timestamp>2006-10-30T19:39:01Z</timestamp>
+      <contributor>
+        <username>Kinu</username>
+        <id>206667</id>
+      </contributor>
+      <comment>{{nn-warn}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Thank you for experimenting with Wikipedia{{{{{subst|}}}#if:Ethan cavett|&amp;#32;by creating the page [[:Ethan cavett]]}}. Your test worked, and the page that you created has been or soon will be deleted. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Test1article (first level warning) --&gt;  -[[User:FisherQueen|FisherQueen]] 19:34, 30 October 2006 (UTC)
+
+Please do not add nonsense to Wikipedia{{#if:Kyle Reese|, as you did to [[:Kyle Reese]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; -[[User:FisherQueen|FisherQueen]] 19:36, 30 October 2006 (UTC)
+
+It is felt that the article you created at [[Ethan cavett]] is not suitable for a Wikipedia article, which must have a [[Wikipedia:Notability|notable]] subject and be [[Wikipedia:Verifiability|verifiable]]. I have moved it to [[User:{{PAGENAME}}]], which is where users are free to write about themselves. You are at liberty to move it back into the (Main) namespace but bear in mind that if you do so, it is likely to be nominated for deletion. 
+
+Note, however, that the purpose of a user page is to enable active editors of Wikipedia to introduce themselves to other editors. [[WP:NOT#Wikipedia_is_not_a_blog.2C_webspace_provider.2C_or_social_networking_site|Wikipedia is not a general hosting service]], so your user page is not a personal homepage. Content unrelated to Wikipedia or its editing is likely to be removed.
+
+Please see [[WP:User_page|the user page guidelines]], especially [[WP:User_page#What_can_I_not_have_on_my_user_page.3F|this section]] for more information. -- [[User:Omicronpersei8|Omicronpersei8]] ([[User talk:Omicronpersei8|talk]]) 19:36, 30 October 2006 (UTC)
+
+==[[:Nathan burton]]==
+
+A tag has been placed on [[:Nathan burton]], requesting that it be speedily deleted from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable [[Wikipedia:Notability|(see the guidelines for notability here)]]. If you can indicate why the subject of this article is notable, you may contest the tagging. To do this, please affix the template &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to the page and leave a note on [[Talk:Nathan burton|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself.
+
+Please read the [[WP:CSD|criteria for speedy deletion]] (specifically, article #7) and [[Wikipedia:Notability (people)|our general biography criteria]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt;  --&lt;font face=&quot;Book Antiqua&quot;&gt;[[User:Kinu|&lt;font color=&quot;blue&quot;&gt;&lt;strong&gt;Kinu&lt;/strong&gt;&lt;/font&gt;]] &lt;sup&gt;[[User_talk:Kinu|&lt;font color=&quot;red&quot;&gt;''t''&lt;/font&gt;]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Kinu|&lt;font color=&quot;red&quot;&gt;''c''&lt;/font&gt;]]&lt;/sub&gt;&lt;/font&gt; 19:39, 30 October 2006 (UTC)</text>
+      <sha1>tlaxqdwwt0vkka59fxyzf2ou3wc6sr6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Konica Minolta Cup</title>
+    <ns>0</ns>
+    <id>7697605</id>
+    <revision>
+      <id>380827672</id>
+      <parentid>377074437</parentid>
+      <timestamp>2010-08-25T01:11:11Z</timestamp>
+      <contributor>
+        <username>Surge79uwf</username>
+        <id>265372</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Konica Minolta Cup''' may refer to
+* [[Japan LPGA Championship]] Konica Minolta Cup, was a golf competition
+* [[WRU Challenge Cup]], a Welsh rugby union competition
+
+'''Konica Cup''' (before the Minolta merger) may refer to
+* [[Konica Cup (football)]], a football competition
+
+{{disambig}}</text>
+      <sha1>orasgh0bid09rp4x7ij4jwxt6g83nrx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:DABMOS</title>
+    <ns>4</ns>
+    <id>7697606</id>
+    <redirect title="Wikipedia:Manual of Style/Disambiguation pages" />
+    <revision>
+      <id>777982147</id>
+      <parentid>586593639</parentid>
+      <timestamp>2017-04-30T13:37:40Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor />
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Redr}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Wikipedia:Manual of Style/Disambiguation pages]]
+
+{{redirect category shell|{{R to project}}{{R sub}}{rsh}}}</text>
+      <sha1>abnffdz64pt2qfbxono6to40w5fi6hq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:69.69.250.37</title>
+    <ns>3</ns>
+    <id>7697608</id>
+    <revision>
+      <id>84676906</id>
+      <timestamp>2006-10-30T19:34:55Z</timestamp>
+      <contributor>
+        <username>Jag7720</username>
+        <id>2539948</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Where is the [[spam]] in the [[Soloflex]] article? Why did you mark it with a clean spam tag?</text>
+      <sha1>9of5y8sxdw72aklejl6mlan2xfoks1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Ted Saskin</title>
+    <ns>1</ns>
+    <id>7697610</id>
+    <revision>
+      <id>512365819</id>
+      <parentid>317596056</parentid>
+      <timestamp>2012-09-14T09:55:33Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor />
+      <comment>WPBIO banner fixes + cleanup (Task: 17) using [[Project:AWB|AWB]] (8413)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{WikiProjectBannerShell|1=
+{{WikiProject Ice Hockey|class=Stub}}
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Saskin, Ted
+|auto=yes
+|sports-work-group=yes
+}}
+{{WikiProject Organized Labour| class           =Start
+| importance      =Mid
+}}
+| blp=yes
+}}</text>
+      <sha1>mkvu6egymm4idivew4hxfxygwa65c0h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Archer (typeface)</title>
+    <ns>0</ns>
+    <id>7697611</id>
+    <revision>
+      <id>807146475</id>
+      <parentid>797421154</parentid>
+      <timestamp>2017-10-26T05:27:23Z</timestamp>
+      <contributor>
+        <username>Blythwood</username>
+        <id>18364158</id>
+      </contributor>
+      <minor />
+      <comment>Rm category it's in a subcat of</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{original research|date=June 2010}}
+{{notability|date=June 2010}}
+}}
+
+{{Infobox typeface
+| name = Archer
+| image = ArcherSpec.svg
+| style = [[Serif]]
+| classifications = [[Slab serif|Humanist slab serif]]
+| date = 2001
+| creator = [[Tobias Frere-Jones]]&lt;br&gt;
+[[Jonathan Hoefler]]
+| foundry = [[Hoefler &amp; Frere-Jones]]
+}}
+
+'''Archer''' is a [[slab serif]] typeface designed in 2001 by [[Tobias Frere-Jones]] and [[Jonathan Hoefler]] for use in ''[[Martha Stewart Living]]'' magazine. It was later released by [[Hoefler &amp; Frere-Jones]] for commercial licensing.
+
+==Structure==
+
+The typeface is a [[Slab_serif#Geometric_model|geometric]] slab serif, one with a geometric design similar to sans-serif fonts. It takes inspiration from mid-twentieth century designs such as [[Rockwell (typeface)|Rockwell]].
+
+The face is unique for combining the geometric structure of twentieth-century European slab-serifs but imbuing the face with a domestic, less strident tone of voice. [[Ball terminal|Balls]] were added to the upper terminals on letters such as ''C'' and ''G'' to increase its charm.&lt;ref&gt;{{cite web|last1=Devroye|first1=Luc|title=Jonathan Hoefler|url=http://luc.devroye.org/fonts-27370.html|publisher=McGill University|accessdate=29 September 2014}}&lt;/ref&gt; [[Italic type|Italics]] are true italic designs, with flourishes influenced by calligraphy, an unusual feature for geometric slab serif designs. As with many [[Hoefler &amp; Frere-Jones]] designs, it was released in a wide range of weights from hairline to bold, reflecting its design goal as a typeface for complex magazines.&lt;ref name=&quot;Typographica review&quot;&gt;{{cite web|last1=Earls|first1=David John|title=Archer|url=http://typographica.org/typeface-reviews/archer/|website=Typographica|accessdate=11 July 2015}}&lt;/ref&gt;
+
+==Uses==
+The typeface has been used for, among other things, branding for [[Wells Fargo]] and is a main font for the ''[[San Francisco Chronicle]]'' and [[Wes Anderson]]'s film ''[[The Grand Budapest Hotel]]''.&lt;ref&gt;{{cite web|last1=Adams|first1=Lauren|title=Is Archer's Use on Target?|url=http://www.aiga.org/is-archers-use-on-target/|publisher=AIGI}}&lt;/ref&gt; It is also the current font used for titles and body text by the [[Design Observer]] website.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.typography.com/fonts/font_overview.php?productLineID=100033 Archer] (H&amp;FJ website)
+
+[[Category:Hoefler &amp; Frere-Jones typefaces]]
+[[Category:Typefaces designed by Tobias Frere-Jones]]
+[[Category:Typefaces designed by Jonathan Hoefler]]
+[[Category:Typefaces and fonts introduced in 2001]]
+[[Category:Digital typefaces]]
+[[Category:Typefaces with text figures]]
+[[Category:Geometric slab-serif typefaces]]
+
+{{typography-stub}}</text>
+      <sha1>7hamo17h91ounroroe90lpjrrqy9gng</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stockton Airport</title>
+    <ns>0</ns>
+    <id>7697612</id>
+    <revision>
+      <id>479135040</id>
+      <parentid>407542334</parentid>
+      <timestamp>2012-02-27T15:55:09Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:CHECKWIKI]] error  fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7968)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Stockton Airport''' may refer to:
+
+* [[Stockton Metropolitan Airport]] in Stockton, California, United States (FAA: SCK)
+* [[Stockton Municipal Airport (Kansas)]] in Stockton, Kansas, United States (FAA: 0S2)
+* [[Stockton Municipal Airport (Missouri)]] in Stockton, Missouri, United States (FAA: MO3)
+
+{{see also|Stockton Municipal Airport (disambiguation)}}
+
+{{airport disambiguation}}</text>
+      <sha1>rikhf08ztpisdb3i8ma1dui8yqbs0hi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Zoidberg~enwiki</title>
+    <ns>2</ns>
+    <id>7697614</id>
+    <revision>
+      <id>658107015</id>
+      <parentid>84686891</parentid>
+      <timestamp>2015-04-22T03:37:26Z</timestamp>
+      <contributor>
+        <username>Maintenance script</username>
+        <id>24794120</id>
+      </contributor>
+      <minor />
+      <comment>Maintenance script moved page [[User:Zoidberg]] to [[User:Zoidberg~enwiki]] without leaving a redirect: Automatically moved page while renaming the user &quot;[[Special:CentralAuth/Zoidberg|Zoidberg]]&quot; to &quot;[[Special:CentralAuth/Zoidberg~enwiki|Zoidberg~enwi...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Physics student
+
+Languages:
+* English
+* German
+* French
+
+[[fr: Utilisateur:Zoidberg]]
+[[de: Benutzer:Zoidberg_de]]</text>
+      <sha1>8asf5f0eqagp4q8g1fzztjw46wslxw8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Protected areas of Canada</title>
+    <ns>14</ns>
+    <id>7697615</id>
+    <revision>
+      <id>582297575</id>
+      <parentid>548243219</parentid>
+      <timestamp>2013-11-19T00:55:35Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>added [[Category:Protected areas of North America]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Commons category|Protected areas of Canada}}
+[[Category:Protected areas by country|Canada]]
+[[Category:Conservation in Canada]]
+[[Category:Protected areas of North America|Can]]</text>
+      <sha1>0rlhkan7qixf1rkifqd1aoguaxly4y6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Suzzana Owiyo</title>
+    <ns>0</ns>
+    <id>7697617</id>
+    <redirect title="Suzanna Owíyo" />
+    <revision>
+      <id>412640594</id>
+      <parentid>346277933</parentid>
+      <timestamp>2011-02-08T01:16:35Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[Suzanna Owíyo]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Suzanna Owíyo]]
+{{R from title without diacritics}}</text>
+      <sha1>k5bpcon4svx4fo1qw151okuw0boh77f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Md wizzard</title>
+    <ns>2</ns>
+    <id>7697619</id>
+    <revision>
+      <id>805921117</id>
+      <parentid>774408760</parentid>
+      <timestamp>2017-10-18T13:59:32Z</timestamp>
+      <contributor>
+        <username>Md wizzard</username>
+        <id>2601421</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Babel| tr | osm-2 | en-4 | de-4 | it-3 | fr-1}}
+{|
+|{{User Wikiproject Turkey member}} {{User:Rockthing/Userboxes/Recently Discovered Userboxes}}
+|}
+
+==WIP==
+* [[Mehmet Nadir Bey]]
+* [[Sakarya Scouting Group]]
+
+
+==Articles==
+* [[Istanbul Lisesi]]
+* [[Annalisa Marzano]]
+==Contributions==
+
+* [[Istanbulspor]]</text>
+      <sha1>s7nf45k8pasjvg7w0i8wgwh8ijrsbfz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:85.197.204.247</title>
+    <ns>3</ns>
+    <id>7697621</id>
+    <revision>
+      <id>84677414</id>
+      <parentid>84677035</parentid>
+      <timestamp>2006-10-30T19:37:46Z</timestamp>
+      <contributor>
+        <username>Satori Son</username>
+        <id>1370416</id>
+      </contributor>
+      <comment>correct template: {test}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Your edit to [[Halo 3]]==
+Thank you for experimenting with {{#if:Halo 3|the page [[:Halo 3]] on}} Wikipedia. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; Thank you,&amp;nbsp;&lt;span style=&quot;font-family:Palatino Linotype&quot;&gt;[[User talk:Satori Son|&lt;b&gt;Satori Son&lt;/b&gt;]]&lt;/span&gt; 19:37, 30 October 2006 (UTC)</text>
+      <sha1>nd0md2xz6wqutmj57xiyn9wtxr054he</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Deloris63</title>
+    <ns>3</ns>
+    <id>7697625</id>
+    <revision>
+      <id>230073738</id>
+      <parentid>84677129</parentid>
+      <timestamp>2008-08-05T22:06:18Z</timestamp>
+      <contributor>
+        <username>OKBot</username>
+        <id>4559949</id>
+      </contributor>
+      <minor />
+      <comment>Robot - Replacing image Wikisigbutton.png with Button sig2.png</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Welcome== 
+&lt;!-- Template from Template:Welcomeg --&gt;{| style=&quot;border-spacing:8px;margin:0px -8px&quot; width=&quot;100%&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #084080; background-color:#F5FFFA; vertical-align:top;color:#000000;font-size: 85%&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#CEF2E0; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #084080; text-align:left; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt; Hello Deloris63! [[Wikipedia:Introduction|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/Deloris63|your contributions]]. If you decide that you need help, check out ''Getting Help'' below, ask me on my talk page, or place '''&lt;tt&gt;{&amp;#123;helpme&amp;#125;}&lt;/tt&gt;''' on your talk page and someone will show up shortly to answer your questions. Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages by clicking [[Image:Button sig2.png]] or using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. Finally, please do your best to '''always fill in the [[Help:Edit summary|edit summary]] field'''. Below are some useful links to facilitate your involvement. Happy Editing! [[User:TheRanger|TheRanger]] 19:36, 30 October 2006 (UTC)
+|}
+{| style=&quot;border-spacing:8px;margin:0px -8px&quot; width=&quot;100%&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Tutorial|Wikipedia Tutorial]] • [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* How to: [[Wikipedia:How to edit a page|edit a page]] • [[Wikipedia:Uploading images|upload an image]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Help&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+* [[Wikipedia:Questions|Where to ask questions or make comments]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Policies and Guidelines&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:Reliable sources|Reliable sources]]
+* [[Wikipedia:Verifiability|Verifiability]] • [[Wikipedia:Citing sources|Citing sources]] • [[Wikipedia:No original research|No original research]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+&lt;hr /&gt;
+* [[Wikipedia:Manual of Style|Manual of Style]] • [[Wikipedia:Three-revert rule|Three-revert rule]] • [[Wikipedia:Sock puppetry|Sock puppetry]]
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Fair use|Fair use]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;The Community&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Resolving disputes|Resolving disputes]]
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:No legal threats|No legal threats]]
+* [[Wikipedia:Community Portal|Community Portal]] • [[Wikipedia:Village pump|Village pump]]
+* [[Wikipedia:Wikipedia Signpost|Signpost]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Things to do&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Be bold in updating pages|Be bold in editing]] • [[Wikipedia:Article development|Help develop an article]]
+* [[Wikipedia:Pages needing attention|Pages needing attention]] • [[Wikipedia:Peer review|Peer review]]
+* [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Translation into English|Translating articles]]
+* Cleaning up: [[Wikipedia:Cleanup|General]] • [[Wikipedia:WikiProject Spam|Spam]] • [[Wikipedia:Cleaning up vandalism|Vandalism]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Miscellaneous&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+[[Image:Wikimedia.png|60px|right]]
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Categorization|Categories]] • [[Wikipedia:Stub|Stubs]]
+* [[Wikipedia:User page|User pages]] • [[Help:Talk page|Talk pages]]
+* [[Wikipedia:Tools|Tools]] • [[Wikipedia:WikiProject User scripts|User scripts]]
+|-
+|}
+|}
+|}&lt;!--Template:Welcomeg--&gt;</text>
+      <sha1>o86uzwy6pkkfym28qolqouv21t6pdeu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ricky Minard</title>
+    <ns>0</ns>
+    <id>7697626</id>
+    <revision>
+      <id>775296214</id>
+      <parentid>764723487</parentid>
+      <timestamp>2017-04-13T23:16:28Z</timestamp>
+      <contributor>
+        <username>Aboutmovies</username>
+        <id>2602832</id>
+      </contributor>
+      <comment>removed [[Category:People from Mansfield, Ohio]]; added [[Category:Sportspeople from Mansfield, Ohio]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox basketball biography
+| image        = 
+| caption      = 
+| name         = Ricky Minard 
+| position     = [[Shooting guard]] / [[Small forward]]
+| height_ft    = 6 
+| height_in    = 5
+| weight_lbs   = 220
+| league       = [[Korisliiga]]
+| team         = Tampereen Pyrintö
+| number       = 24
+| nationality  = American
+| birth_date   = {{birth date and age|1982|9|11}}
+| birth_place  = [[Mansfield, Ohio]]
+| high_school  = [[Mansfield Senior High School|Mansfield]] (Mansfield, Ohio)
+| college      = [[Morehead State Eagles men's basketball|Morehead State]] (2000–2004)
+| draft_year   = 2004
+| draft_round  = 2
+| draft_pick   = 48
+| draft_team   = [[Sacramento Kings]]
+| career_start = 2004
+| career_end   =
+| years1       = 2004–2005
+| team1        = [[Columbus Riverdragons]]
+| years2       = 2005
+| team2        = [[Pallacanestro Biella|Lauretana Biella]]
+| years3       = 2005–2007
+| team3        = [[Pallacanestro Reggiana|Bipop Carire Reggio Emilia]]
+| years4       = 2007–2009
+| team4        = [[Sutor Basket Montegranaro|Premiata Montegranaro]]
+| years5       = 2009–2010
+| team5        = [[Pallacanestro Virtus Roma|Lottomatica Roma]]
+| years6       = 2010
+| team6        = [[BC Khimki|Khimki Moscow Region]]
+| years7       = 2010–2011
+| team7        = [[UNICS Kazan]]
+| years8       = 2011–2012
+| team8        = [[BC Azovmash|Azovmash Mariupol]]
+| years9       = 2012
+| team9        = [[A.S. Junior Pallacanestro Casale|Novipiu Casale]]
+| years10      = 2012–2013
+| team10       = [[Virtus Pallacanestro Bologna|Virtus Bologna]]
+| years11      = 2013
+| team11       = [[Beşiktaş men's basketball team|Beşiktaş]]
+| years12      = 2013–2014
+| team12       = [[BC Budivelnyk|Budivelnyk Kyiv]]
+| years13      = 2015
+| team13       = [[SPO Rouen Basket]]
+| years14      = 2015
+| team14       = [[BG Göttingen]]
+| years15      = 2015–present
+| team15       = [[Tampereen Pyrintö (basketball)|Tampereen Pyrintö]]
+| highlights    = 
+* [[Eurocup Basketball|Eurocup]] champion (2011)
+* [[Ukrainian Basketball League|Ukrainian League]] champion (2014)
+* [[Ukrainian Basketball Cup|Ukrainian Cup]] champion (2014)
+}}
+
+'''Ricky Donell Minard Jr.''' (born September 11, 1982) is an American professional [[basketball]] player who plays for [[Tampereen Pyrintö (basketball)|Tampereen Pyrintö]] of the [[Korisliiga]]. He is Morehead State's career scoring leader.&lt;ref name=espn1/&gt;
+
+==Professional career==
+He was selected by the [[Sacramento Kings]] in the 2nd round (48th overall) of the [[2004 NBA Draft]]. A 6'4&quot; guard from [[Morehead State University]], Minard was signed by the Kings in July 2004, but they waived him in November the same year, and so far he has never appeared in an [[NBA]] game.&lt;ref name=espn1&gt;[http://sports.espn.go.com/nba/news/story?id=1836037 Martin signs for three years, $2.34 million - NBA - ESPN]&lt;/ref&gt;
+
+Minard started his professional career with [[Columbus Riverdragons]] of the [[NBDL]].&lt;ref&gt;[http://www.nba.com/dleague/nbdl/draft_041105.html Riverdragons Select Ricky Minard With the No. 1 Overall Pick]&lt;/ref&gt; In January 2005, he left the United States and moved to Italy where he spent next five years playing for [[Pallacanestro Biella|Lauretana Biella]], [[Pallacanestro Reggiana|Bipop Carire Reggio Emilia]], [[Sutor Basket Montegranaro|Premiata Montegranaro]] and [[Pallacanestro Virtus Roma|Lottomatica Roma]].&lt;ref&gt;[http://web.legabasket.it/player/?id=MIN-RIC-82 Italian League profile]&lt;/ref&gt;
+
+On March 12, 2010, he signed with [[BC Khimki|Khimki Moscow Region]] of Russia for the rest of the season.&lt;ref&gt;[http://www.sportando.com/en/europe/russia/80344/khimki-announces-minard.html Khimki announces Minard]&lt;/ref&gt; For the 2010–11 season he stayed in Russia but moved to [[UNICS Kazan]].&lt;ref&gt;[http://www.eurocupbasketball.com/eurocup/news/i/77352/unics-kazan-inks-scorer-minard Unics Kazan inks scorer Minard]&lt;/ref&gt; On July 20, 2011, he signed a one-year deal with [[Azovmash Mariupol]] of Ukraine.&lt;ref&gt;[http://www.sportando.com/en/europe/ukraine/87516/azovmash-mariupol-lands-ricky-minard.html Azovmash Mariupol lands Ricky Minard]&lt;/ref&gt; On February 17, 2012, he was released by Azovmash.&lt;ref&gt;[http://www.sportando.com/en/europe/ukraine/90270/azovmash-mariupol-released-ricky-minard.html Azovmash Mariupol released Ricky Minard]&lt;/ref&gt; The same day he signed with [[A.S. Junior Pallacanestro Casale|Novipiu Casale]] of Italy for the rest of the season.&lt;ref&gt;[http://www.sportando.com/en/italy/serie-a/90279/novipiu-casale-officially-announced-ricky-minard.html Novipiu Casale officially announced Ricky Minard]&lt;/ref&gt;
+
+On August 28, 2012, he signed with [[Virtus Pallacanestro Bologna|Virtus Bologna]] of Italy.&lt;ref&gt;[http://www.sportando.com/en/italy/serie-a/94891/virtus-bologna-officially-signs-ricky-minard.html Virtus Bologna officially signs Ricky Minard]&lt;/ref&gt; On February 21, 2012, he left Bologna and signed with [[Beşiktaş men's basketball team|Beşiktaş]] of Turkey for the rest of the season.&lt;ref&gt;[http://www.sportando.com/en/italy/serie-a/99414/ricky-minard-virtus-bologna-part-ways.html Ricky Minard, Virtus Bologna part ways]&lt;/ref&gt;&lt;ref&gt;[http://www.sportando.com/en/europe/turkey/99416/besiktas-lands-ricky-minard.html Besiktas lands Ricky Minard]&lt;/ref&gt; On July 25, 2013, he signed with [[BC Budivelnyk|Budivelnyk Kyiv]] of Ukraine for the 2013–14 season.&lt;ref&gt;{{cite web|title=Budivelnyk signs Ricky Minard|url=http://www.sportando.net/eng/europe/ukraine/60156/budivelnyk-signs-ricky-minard.html|publisher=Sportando.net|accessdate=July 25, 2013}}&lt;/ref&gt;
+
+On January 18, 2015, he signed with French team [[SPO Rouen Basket]].&lt;ref&gt;[http://www.sportando.com/en/europe/france/149125/rouen-lands-ricky-minard.html Rouen lands Ricky Minard]&lt;/ref&gt; On March 7, 2015, he parted ways with Rouen after appearing in five league games.&lt;ref&gt;[http://www.eurobasket.com/France/news/397227/Ricky-Minard-left-Rouen Ricky Minard left Rouen]&lt;/ref&gt;
+
+On August 20, 2015, he signed with [[BG Göttingen]] of Germany.&lt;ref&gt;[http://www.sportando.com/en/europe/germany/173349/bg-goettingen-lands-ricky-minard.html BG Goettingen lands Ricky Minard]&lt;/ref&gt; On October 23, 2015, he parted ways due to injury with Göttingen after appearing in two games.&lt;ref&gt;[http://www.sportando.com/en/europe/germany/179583/bg-goettingen-ricky-minard-part-ways.html BG Goettingen, Ricky Minard part ways]&lt;/ref&gt; On November 13, 2015, he signed with [[Tampereen Pyrintö (basketball)|Tampereen Pyrintö]] of the Finnish [[Korisliiga]].&lt;ref&gt;[http://www.sportando.com/en/europe/finland/181864/ricky-minard-inks-with-tampere-pyrinto.html Ricky Minard inks with Tampere Pyrinto]&lt;/ref&gt; Pyrintö advanced to Korisliiga Finals, where they lost to [[Kouvot]]. Following their mutual interest already from the previous season the parties re-signed on August 15, 2016.&lt;ref&gt;[http://pyrinto.fi/ricky-minard-pukee-punaista-paalle/ Ricky Minard pukee punaista päälle] Tampereen Pyrintö Basketball {{fi}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* [http://aol.nba.com/draft2004/profiles/RickyMinard.html NBA.com Draft bio]
+* [http://www.collegehoopsnet.com/Draft/Prospects/RMinard.htm Interview]
+* [http://www.fiba.com/pages/eng/fc/gamecent/p/pid/6026023/playerview.html FIBA.com profile]
+* [http://www.basslinespin.com/MinardRicky.htm Who is Ricky Minard?]
+* [http://basketball.eurobasket.com/player/Ricky_Minard/46336 Eurobasket.com profile]
+
+{{Navboxes|list1=
+{{NBA Development League NumberOne Picks}}
+{{2004 NBA Draft}}
+{{Ohio Valley Conference Men's Basketball Player of the Year navbox}}
+{{BC UNICS 2010–11 Eurocup champions}}
+}}
+
+{{DEFAULTSORT:Minard, Ricky}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:American expatriate basketball people in Finland]]
+[[Category:American expatriate basketball people in France]]
+[[Category:American expatriate basketball people in Germany]]
+[[Category:American expatriate basketball people in Italy]]
+[[Category:American expatriate basketball people in Russia]]
+[[Category:American expatriate basketball people in Turkey]]
+[[Category:American expatriate basketball people in Ukraine]]
+[[Category:A.S. Junior Pallacanestro Casale players]]
+[[Category:Basketball players from Ohio]]
+[[Category:BC Azovmash players]]
+[[Category:BC Budivelnyk players]]
+[[Category:BC Khimki players]]
+[[Category:BC UNICS players]]
+[[Category:BG Göttingen players]]
+[[Category:Beşiktaş men's basketball players]]
+[[Category:Columbus Riverdragons players]]
+[[Category:Morehead State Eagles men's basketball players]]
+[[Category:Pallacanestro Biella players]]
+[[Category:Pallacanestro Reggiana players]]
+[[Category:Pallacanestro Virtus Roma players]]
+[[Category:Sportspeople from Mansfield, Ohio]]
+[[Category:Sacramento Kings draft picks]]
+[[Category:Shooting guards]]
+[[Category:Small forwards]]
+[[Category:Tampereen Pyrintö players]]
+[[Category:Virtus Pallacanestro Bologna players]]</text>
+      <sha1>hj6cabfwo8k1ec7c0nc7ouoxxgyb0xc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Katisha</title>
+    <ns>4</ns>
+    <id>7697627</id>
+    <revision>
+      <id>86474849</id>
+      <parentid>86158900</parentid>
+      <timestamp>2006-11-08T11:59:49Z</timestamp>
+      <contributor>
+        <username>Jitse Niesen</username>
+        <id>14515</id>
+      </contributor>
+      <comment>close discussion, result is redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''redirect''' to [[The Mikado]]. -- [[User:Jitse Niesen|Jitse Niesen]] ([[User talk:Jitse Niesen|talk]]) 11:59, 8 November 2006 (UTC)
+===[[Katisha]]===
+Contains no information not in [[The Mikado]] article, the point of the spin-off unclear, as the character only appears in one opera, and it's unclear how this could expand further. In normal circumstances I'd say merge or make it a redirect, but, as I said, everything IS covered in [[The Mikado]], and I can't imagine someone searching for &quot;Katisha&quot;.  [[User:Adam Cuerden|Adam Cuerden]] &lt;sup&gt;[[User_talk:Adam Cuerden|talk]]&lt;/sup&gt; 19:36, 30 October 2006 (UTC)
+
+*'''Delete''' article per nomination.  Anything notable about this character should appear in the plot summary of ''[[The Mikado]]''.  There is no reason to have a separate article for this character.  -- [[User:Ssilvers|Ssilvers]] 19:59, 30 October 2006 (UTC)
+*'''Redirect''' it to [[The Mikado]] -- merge isn't needed since the info's there, but the redirect could be useful -- somebody could search for it. -- [[User:ArglebargleIV|ArglebargleIV]] 22:15, 30 October 2006 (UTC)
+*&lt;small&gt;'''Note''':  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Japan|list of Japan-related deletions]].  &lt;/small&gt; &lt;small&gt;-- [[User:Qiszxo|Qiszxo]] 08:11, 31 October 2006 (UTC)&lt;/small&gt;
+*'''Redirect''' to [[The Mikado]]. It seems the creator of the article has abandoned it, too. [[User:KrakatoaKatie|&lt;font color=&quot;salmon&quot;&gt;'''Krakatoa'''&lt;/font&gt;]][[User talk:KrakatoaKatie|&lt;font color=&quot;teal&quot;&gt;Katie&lt;/font&gt;]] 23:45, 6 November 2006 (UTC)
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>cavus94iuuxvv956etffhltzbvh8mlp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Kdubbz</title>
+    <ns>3</ns>
+    <id>7697628</id>
+    <revision>
+      <id>230105110</id>
+      <parentid>128106930</parentid>
+      <timestamp>2008-08-06T01:24:49Z</timestamp>
+      <contributor>
+        <username>OKBot</username>
+        <id>4559949</id>
+      </contributor>
+      <minor />
+      <comment>Robot - Replacing image Wikisigbutton.png with Button sig2.png</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">
+{| class=&quot;wikitable&quot;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;Hello&lt;/center&gt;
+&lt;center&gt;Bonjour&lt;/center&gt;
+&lt;center&gt;Buenos días&lt;/center&gt;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;&lt;font size=4&gt;{{PAGENAME}}&lt;/font&gt;&lt;/center&gt;
+
+&lt;center&gt;and...&lt;/center&gt;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;Welcome&lt;/center&gt;
+&lt;center&gt;Bienvenue&lt;/center&gt;
+&lt;center&gt;Bienvenido/Bienvenida&lt;/center&gt;
+|-
+| colspan=&quot;3&quot; | &lt;center&gt;&lt;font size=5&gt;to [[Wikipedia]], the free encyclopedia!&lt;/font&gt;&lt;/center&gt;
+|-
+| colspan=&quot;3&quot; | Wikipedia is a free-content encyclopedia [[m:List of Wikipedias|written in 250 languages]] by thousands of users like you and me from all walks of life. As a member of the [[WP:Wc|Welcoming Committee]], I would like to say thanks for being a part of this project.
+
+Here are some links to help you, the new user, on your Wikipedia journey:
+
+*[[Wikipedia:Introduction|Introduction]]
+*[[Wikipedia:Sandbox|Sandbox]]
+*[[Help:Editing|Editing a page]]
+*[[Wikipedia:Bootcamp|Bootcamp]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[[Wikipedia:Five pillars|Five pillars]]
+
+Whether you're new to the project or have helped us for a while, remember to use [[Help:Edit summary|edit summaries]] when you're done with a page. Summaries are important because, with those, other editors will understand what you have done with the content. '''REMEMBER''': think twice before clicking &quot;'''Save page'''&quot; below the editing box, since whatever you write in the summary box will permamently go in the [[Help:Page history|history of any page]]. (Spellchecking is important; you cannot change the summary data after you have finished editing.)
+
+Remember, also, to sign your name with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;) or by pressing this button ([[Image:Button sig2.png|Signature button]]) above the box, whenever leaving comments on [[Wikipedia:Talk page|talk pages]].
+
+If you want to know how you're doing on Wikipedia, feel free to check out [[Special:Contributions/Kdubbz|your list of contributions]].
+
+If you don't know how to do something, type &lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt; on your talk page, and [[Wikipedia:Administrators|administrators]] will come to solve your problems.
+
+After you've stayed here for a while, you might want to take an [[Wikipedia:Editor review|editor review]], or, even better, take a chance at [[Wikipedia:Requests for adminship|adminship]].
+
+Wherever the journey takes you, I wish you the best of luck and respect on Wikipedia. If you have any questions about my expertise or this site, you can [[Special:Emailuser/Slgrandson|e-mail me]] or [[User talk:Slgrandson|talk to me]], and I will see about the situation as best as possible.
+
+In the meantime, happy editing!
+
+&lt;div style=&quot;text-align: right;&quot;&gt;Slgr&lt;font color=&quot;#228B22&quot;&gt;[[Wikipedia:Esperanza|@]]&lt;/font&gt;ndson &lt;small&gt;([[User:Slgrandson|page]] - [[User talk:Slgrandson|messages]] - [[Special:Contributions/Slgrandson|contribs]])&lt;/small&gt; 19:36, 30 October 2006 (UTC)&lt;div&gt;
+|}</text>
+      <sha1>isb31e1ghfbvdmue7cj3nvxme9gcls0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Penny-and-dime scam</title>
+    <ns>0</ns>
+    <id>7697629</id>
+    <redirect title="Coin rolling scams" />
+    <revision>
+      <id>242688347</id>
+      <parentid>242687775</parentid>
+      <timestamp>2008-10-03T06:35:18Z</timestamp>
+      <contributor>
+        <username>Apl2007</username>
+        <id>5765657</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Coin rolling scams]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Coin rolling scams]]</text>
+      <sha1>dmen6374fx2a5wu56mx392t4qbs59nh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:71.60.193.163</title>
+    <ns>3</ns>
+    <id>7697631</id>
+    <revision>
+      <id>716951740</id>
+      <parentid>193067346</parentid>
+      <timestamp>2016-04-24T22:10:35Z</timestamp>
+      <contributor>
+        <username>BD2412bot</username>
+        <id>25180159</id>
+      </contributor>
+      <minor />
+      <comment>[[Wikipedia talk:Criteria for speedy deletion/Archive 9#IP talk pages|blank ancient IP talk page messages]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{OW}}</text>
+      <sha1>nbenecoa06c8df8h22y6zw58w3kgrf8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mr. &amp; Mrs.</title>
+    <ns>0</ns>
+    <id>7697632</id>
+    <redirect title="Mr &amp; Mrs" />
+    <revision>
+      <id>630710503</id>
+      <parentid>84677215</parentid>
+      <timestamp>2014-10-22T22:01:51Z</timestamp>
+      <contributor>
+        <username>Invadibot</username>
+        <id>15934865</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[Mr &amp; Mrs]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mr &amp; Mrs]]</text>
+      <sha1>q4n3iot4g7jvcupm6hh6slqrrekklnw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Amblyornis</title>
+    <ns>14</ns>
+    <id>7697635</id>
+    <revision>
+      <id>546949103</id>
+      <parentid>382040770</parentid>
+      <timestamp>2013-03-25T18:48:17Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q8242828]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Amblyornis''' is a genus of the [[Ptilonorhynchidae]] family.
+{{Commons cat|Amblyornis}}
+
+[[Category:Ptilonorhynchidae]]</text>
+      <sha1>4gfuo1jt033p4xjwswp7kzurilkt0gj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Bowsandarrows</title>
+    <ns>3</ns>
+    <id>7697636</id>
+    <revision>
+      <id>286146874</id>
+      <parentid>286145831</parentid>
+      <timestamp>2009-04-26T01:23:27Z</timestamp>
+      <contributor>
+        <username>Jehochman</username>
+        <id>217750</id>
+      </contributor>
+      <comment>/* Waterboarding */  space</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==[[:Nonamaker]]==
+
+A tag has been placed on [[:Nonamaker]], requesting that it be speedily deleted from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable [[Wikipedia:Notability|(see the guidelines for notability here)]]. If you can indicate why the subject of this article is notable, you may contest the tagging. To do this, please affix the template &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to the page and leave a note on [[Talk:Nonamaker|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself.
+
+Please read the [[WP:CSD|criteria for speedy deletion]] (specifically, article #7) and [[Wikipedia:Notability (people)|our general biography criteria]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt; [[User:Elomis|Elomis]] 19:36, 30 October 2006 (UTC)
+
+== Waterboarding ==
+
+Could you post a link where somebody calls [[surfing]] [[waterboarding]]?  I can't seem to find any. [[User:Jehochman|Jehochman]] &lt;sup&gt;[[User talk:Jehochman|Talk]]&lt;/sup&gt; 00:46, 26 April 2009 (UTC)
+
+Yes, Waterboarding is a very common term in Hawaii, the Western US, Australia and even some former Soviet countries. Here's a link to an article where the author references this http://mydailyclarity.com/2009/03/surfing-for-peace-in-the-gaza/. Also, I found a site that references waterboarding here http://www.hawaiiansouthshore.com/shop/product.php?productid=17375. It get's confusing; I was looking for 'surfing' but we call it Waterboarding so I got to the wrong page ;-)
+
+: Fair enough.  That source uses &quot;water boarding&quot; with a space.  I've made a change to your edit to reflect the space. [[User:Jehochman|Jehochman]] &lt;sup&gt;[[User talk:Jehochman|Talk]]&lt;/sup&gt; 01:23, 26 April 2009 (UTC)</text>
+      <sha1>al9z8em9iggxbz3ec4p8yejpz01klb7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:AlexYong</title>
+    <ns>3</ns>
+    <id>7697640</id>
+    <revision>
+      <id>230046601</id>
+      <parentid>128106950</parentid>
+      <timestamp>2008-08-05T19:43:31Z</timestamp>
+      <contributor>
+        <username>OKBot</username>
+        <id>4559949</id>
+      </contributor>
+      <minor />
+      <comment>Robot - Replacing image Wikisigbutton.png with Button sig2.png</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">
+{| class=&quot;wikitable&quot;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;Hello&lt;/center&gt;
+&lt;center&gt;Bonjour&lt;/center&gt;
+&lt;center&gt;Buenos días&lt;/center&gt;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;&lt;font size=4&gt;{{PAGENAME}}&lt;/font&gt;&lt;/center&gt;
+
+&lt;center&gt;and...&lt;/center&gt;
+|-
+| rowspan=&quot;1&quot; | &lt;center&gt;Welcome&lt;/center&gt;
+&lt;center&gt;Bienvenue&lt;/center&gt;
+&lt;center&gt;Bienvenido/Bienvenida&lt;/center&gt;
+|-
+| colspan=&quot;3&quot; | &lt;center&gt;&lt;font size=5&gt;to [[Wikipedia]], the free encyclopedia!&lt;/font&gt;&lt;/center&gt;
+|-
+| colspan=&quot;3&quot; | Wikipedia is a free-content encyclopedia [[m:List of Wikipedias|written in 250 languages]] by thousands of users like you and me from all walks of life. As a member of the [[WP:Wc|Welcoming Committee]], I would like to say thanks for being a part of this project.
+
+Here are some links to help you, the new user, on your Wikipedia journey:
+
+*[[Wikipedia:Introduction|Introduction]]
+*[[Wikipedia:Sandbox|Sandbox]]
+*[[Help:Editing|Editing a page]]
+*[[Wikipedia:Bootcamp|Bootcamp]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[[Wikipedia:Five pillars|Five pillars]]
+
+Whether you're new to the project or have helped us for a while, remember to use [[Help:Edit summary|edit summaries]] when you're done with a page. Summaries are important because, with those, other editors will understand what you have done with the content. '''REMEMBER''': think twice before clicking &quot;'''Save page'''&quot; below the editing box, since whatever you write in the summary box will permamently go in the [[Help:Page history|history of any page]]. (Spellchecking is important; you cannot change the summary data after you have finished editing.)
+
+Remember, also, to sign your name with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;) or by pressing this button ([[Image:Button sig2.png|Signature button]]) above the box, whenever leaving comments on [[Wikipedia:Talk page|talk pages]].
+
+If you want to know how you're doing on Wikipedia, feel free to check out [[Special:Contributions/AlexYong|your list of contributions]].
+
+If you don't know how to do something, type &lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt; on your talk page, and [[Wikipedia:Administrators|administrators]] will come to solve your problems.
+
+After you've stayed here for a while, you might want to take an [[Wikipedia:Editor review|editor review]], or, even better, take a chance at [[Wikipedia:Requests for adminship|adminship]].
+
+Wherever the journey takes you, I wish you the best of luck and respect on Wikipedia. If you have any questions about my expertise or this site, you can [[Special:Emailuser/Slgrandson|e-mail me]] or [[User talk:Slgrandson|talk to me]], and I will see about the situation as best as possible.
+
+In the meantime, happy editing!
+
+&lt;div style=&quot;text-align: right;&quot;&gt;Slgr&lt;font color=&quot;#228B22&quot;&gt;[[Wikipedia:Esperanza|@]]&lt;/font&gt;ndson &lt;small&gt;([[User:Slgrandson|page]] - [[User talk:Slgrandson|messages]] - [[Special:Contributions/Slgrandson|contribs]])&lt;/small&gt; 19:37, 30 October 2006 (UTC)&lt;div&gt;
+|}</text>
+      <sha1>htmx01ub0w1jlpyz2cbaqvmx8asowj5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alexander Peya</title>
+    <ns>0</ns>
+    <id>7697641</id>
+    <revision>
+      <id>827541905</id>
+      <parentid>827494763</parentid>
+      <timestamp>2018-02-25T09:19:34Z</timestamp>
+      <contributor>
+        <username>Ytfc23</username>
+        <id>8218691</id>
+      </contributor>
+      <comment>/* Doubles: 43 (15 titles, 27 runner-ups, 1 pending) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox tennis biography
+| image = Alex Peya (20936902906).jpg
+| name = Alexander Peya
+| country = {{AUT}}
+| residence = [[Vienna]], Austria
+| birth_date = {{birth date and age|df=y|1980|6|27}}
+| birth_place = Vienna, Austria
+| height = {{height|m=1.82|precision=0}}
+| turnedpro = 1998
+| plays = Right-handed (one-handed backhand)
+| careerprizemoney = US$3,709,784
+| singlesrecord = 22–51
+| singlestitles = 0
+| highestsinglesranking = No. 92 (April 30, 2007)
+| currentsinglesranking = 
+| AustralianOpenresult = 
+| FrenchOpenresult = 1R ([[2004 French Open|2004]], [[2007 French Open|2007]])
+| Wimbledonresult = 2R ([[2004 Wimbledon Championships|2004]])
+| USOpenresult = 3R ([[2004 US Open (tennis)|2004]])
+| doublesrecord = 317–229
+| doublestitles = 15
+| highestdoublesranking = No. 3 (12 August 2013)
+| currentdoublesranking = No. 26 (3 April 2017)
+| AustralianOpenDoublesresult = 3R ([[2014 Australian Open – Men's Doubles|2014]])
+| FrenchOpenDoublesresult = SF ([[2013 French Open – Men's Doubles|2013]], [[2016 French Open – Men's Doubles|2016]])
+| WimbledonDoublesresult = SF ([[2011 Wimbledon Championships – Men's Doubles|2011]])
+| USOpenDoublesresult = F ([[2013 US Open – Men's Doubles|2013]])
+| OthertournamentsDoubles = Yes
+| MastersCupDoublesresult = SF ([[2013 ATP World Tour Finals – Doubles|2013]])
+| OlympicsDoublesresult = 2R ([[Tennis at the 2012 Summer Olympics – Men's doubles|2012]])
+| Mixed = yes
+| mixedtitles = 0
+| AustralianOpenMixedresult = QF ([[2015 Australian Open – Mixed Doubles|2015]])
+| FrenchOpenMixedresult = QF ([[2015 French Open – Mixed Doubles|2015]])
+| WimbledonMixedresult = F ([[2015 Wimbledon Championships – Mixed Doubles|2015]])
+| USOpenMixedresult = 2R ([[2014 US Open – Mixed Doubles|2014]])
+| updated = 3 April 2017
+}}
+
+'''Alexander Peya''' (born 27 June 1980) is an [[Austria]]n male [[tennis]] player. He reached a career-high singles ranking of world no. 92 in April 2007. His career-high doubles ranking is world no. 3, first achieved in August 2013. He was born in [[Vienna]], Austria, and currently resides there.
+
+In September 2008 Peya helped [[Austria Davis Cup team|Austria]] to a [[Davis Cup]] play-off win against [[Great Britain Davis Cup team|Great Britain]]. Peya beat [[Alex Bogdanovic]] in four sets in the deciding rubber of the tie.
+
+==Significant finals==
+
+===Grand Slam finals===
+
+====Doubles: 1 (1 runner-up)====
+{| class=&quot;wikitable&quot;
+! Outcome
+! Year
+! width=180 | Championship
+! Surface
+! width=180 | Partner
+! width=180 | Opponents
+! width=180 | Score
+|- bgcolor=CCCCFF
+| bgcolor=FFA07A | Runner-up
+| [[2013 US Open (tennis)|2013]]
+| [[US Open (tennis)|US Open]]
+| Hard
+| {{flagicon|BRA}} [[Bruno Soares]]
+| {{flagicon|IND}} [[Leander Paes]]&lt;br /&gt;{{flagicon|CZE}} [[Radek Štěpánek]]
+| 1–6, 3–6
+|}
+
+====Mixed Doubles: 1 (1 runner-up)====
+{| class=&quot;wikitable&quot;
+! Outcome
+! Year
+! width=180 | Championship
+! Surface
+! width=180 | Partner
+! width=180 | Opponents
+! width=180 | Score
+|- style=&quot;background:#cfc;&quot;
+| bgcolor=FFA07A | Runner-up
+| [[2015 Wimbledon Championships|2015]]
+| [[2015 Wimbledon Championships – Mixed Doubles|Wimbledon]]
+| Grass
+| {{flagicon|HUN}} [[Tímea Babos]]
+| {{flagicon|IND}} [[Leander Paes]]&lt;br /&gt;{{flagicon|SUI}} [[Martina Hingis]]
+| 1–6, 1–6
+|}
+
+===Masters 1000 finals===
+
+====Doubles: 5 (2 titles, 3 runners-up)====
+{| class=&quot;sortable wikitable&quot;
+! Outcome
+! Year
+! width=200 | Championship
+! Surface
+! width=200 | Partner
+! width=200 | Opponents
+! width=200 | Score
+|- bgcolor=ebc2af
+| bgcolor=FFA07A | Runner-up || [[2013 Mutua Madrid Open – Men's Doubles|2013]] || [[Mutua Madrid Open|Madrid]] || Clay || {{flagicon|BRA}} [[Bruno Soares]] || {{flagicon|USA}} [[Bob Bryan]]&lt;br /&gt;{{flagicon|USA}} [[Mike Bryan]] || 2–6, 3–6
+|- bgcolor=CCCCFF
+| bgcolor=98FB98 | Winner || [[2013 Rogers Cup – Men's Doubles|2013]] || [[Canadian Open (tennis)|Montreal]] || Hard || {{flagicon|BRA}} Bruno Soares || {{flagicon|GBR}} [[Andy Murray]] &lt;br /&gt;{{flagicon|GBR}} [[Colin Fleming]] || 6–4, 7–6&lt;sup&gt;(7–4)&lt;/sup&gt;
+|- bgcolor=CCCCFF
+| bgcolor=FFA07A | Runner-up || [[2013 BNP Paribas Masters – Doubles|2013]] || [[BNP Paribas Masters|Paris]] || Hard (i) || {{flagicon|BRA}} Bruno Soares || {{flagicon|USA}} Bob Bryan&lt;br /&gt;{{flagicon|USA}} Mike Bryan || 3–6, 3–6
+|- bgcolor=CCCCFF
+| bgcolor=FFA07A | Runner-up || [[2014 BNP Paribas Open – Men's Doubles|2014]] || [[BNP Paribas Open|Indian Wells]] || Hard || {{flagicon|BRA}} Bruno Soares || {{flagicon|USA}} Bob Bryan&lt;br /&gt;{{flagicon|USA}} Mike Bryan || 4–6, 3–6
+|- bgcolor=CCCCFF
+| bgcolor=98FB98 | Winner || [[2014 Rogers Cup – Men's Doubles|2014]] || [[Canadian Open (tennis)|Toronto]] || Hard || {{flagicon|BRA}} Bruno Soares || {{flagicon|CRO}} [[Ivan Dodig]]&lt;br /&gt;{{flagicon|BRA}} [[Marcelo Melo]] || 6–4, 6–3
+|}
+
+==ATP career finals==
+
+===Doubles: 43 (15 titles, 28 runner-ups)===
+{|
+|- valign=&quot;top&quot;
+|
+{|class=&quot;wikitable&quot;
+!Legend
+|- style=&quot;background:#f3e6d7;&quot;
+|Grand Slam tournaments (0–1)
+|- style=&quot;background:#ffffcc;&quot;
+|Tennis Masters Cup / &lt;br&gt;ATP World Tour Finals (0–0)
+|- style=&quot;background:#e9e9e9;&quot;
+|ATP Masters Series / &lt;br&gt;ATP World Tour Masters 1000 (2–3)
+|- style=&quot;background:#d4f1c5;&quot;
+|ATP International Series Gold / &lt;br&gt;ATP World Tour 500 Series (6–9)
+|-
+|ATP International Series / &lt;br&gt;ATP World Tour 250 Series (7–15)
+|}
+|
+{|class=&quot;wikitable&quot;
+!Titles by surface
+|-
+|Hard (9–15)
+|-
+|Clay (4–10)
+|-
+|Grass (2–4)
+|-
+|Carpet (0–0)
+|}
+|
+{|class=&quot;wikitable&quot;
+!Titles by setting
+|-
+|Outdoor (10–23)
+|-
+|Indoor (5–5)
+|}
+|}
+
+{|class=&quot;sortable wikitable&quot;
+!Result
+!class=&quot;unsortable&quot;|W–L
+!{{ns}}Date{{ns}}
+!Tournament
+!Tier
+!Surface
+!Partner
+!Opponents
+!class=&quot;unsortable&quot;|Score
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;0–1&lt;/small&gt;
+|[[2003 Generali Open – Doubles|{{dts|Jul 2003}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Austrian Open Kitzbühel|Austrian Open]], Austria
+|style=&quot;background:#D4F1C5;&quot;|Intl. Gold
+|Clay
+|{{flagicon|AUT}} [[Jürgen Melzer]]
+|{{flagicon|CZE}} [[Martin Damm]]&lt;br&gt;{{flagicon|CZE}} [[Cyril Suk]]
+|4–6, 4–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;0–2&lt;/small&gt;
+|[[2006 BMW Open – Doubles|{{dts|May 2006}}]]
+|[[Bavarian International Tennis Championships|Bavarian Championships]], Germany
+|International
+|Clay
+|{{flagicon|GER}} [[Björn Phau]]
+|{{flagicon|ROU}} [[Andrei Pavel]]&lt;br&gt;{{flagicon|GER}} [[Alexander Waske]]
+|4–6, 2–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;0–3&lt;/small&gt;
+|[[2008 Bank Austria-TennisTrophy – Doubles|{{dts|Oct 2008}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Vienna Open]], Austria
+|style=&quot;background:#D4F1C5;&quot;|Intl. Gold
+|Hard (i)
+|{{nowrap|{{flagicon|GER}} [[Philipp Petzschner]]}}
+|{{flagicon|BLR}} [[Max Mirnyi]]&lt;br&gt;{{flagicon|ISR}} [[Andy Ram]]
+|1–6, 5–7
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;0–4&lt;/small&gt;
+|[[2011 Delray Beach International Tennis Championships – Doubles|{{dts|Feb 2011}}]]
+|[[Delray Beach Open]], US
+|250 Series
+|Hard
+|{{flagicon|GER}} [[Christopher Kas]]
+|{{flagicon|USA}} [[Scott Lipsky]]&lt;br&gt;{{flagicon|USA}} [[Rajeev Ram]]
+|6–4, 4–6, [3–10]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;0–5&lt;/small&gt;
+|[[2011 Serbia Open – Doubles|{{dts|Apr 2011}}]]
+|[[Serbia Open]], Serbia
+|250 Series
+|Clay
+|{{flagicon|AUT}} [[Oliver Marach]]
+|{{flagicon|CZE}} [[František Čermák]]&lt;br&gt;{{flagicon|SVK}} [[Filip Polášek]]
+|5–7, 2–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;1–5&lt;/small&gt;
+|[[2011 International German Open – Doubles|{{dts|Jul 2011}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[German Open Tennis Championships|German Open]], Germany
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|AUT}} Oliver Marach
+|{{flagicon|CZE}} František Čermák&lt;br&gt;{{flagicon|SVK}} Filip Polášek
+|6–4, 6–1
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;1–6&lt;/small&gt;
+|[[2011 Crédit Agricole Suisse Open Gstaad – Doubles|{{dts|Jul 2011}}]]
+|[[Swiss Open (tennis)|Swiss Open]], Switzerland
+|250 Series
+|Clay
+|{{flagicon|GER}} Christopher Kas
+|{{flagicon|CZE}} František Čermák&lt;br&gt;{{flagicon|SVK}} Filip Polášek
+|3–6, 6–7&lt;sup&gt;(7–9)&lt;/sup&gt;
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;1–7&lt;/small&gt;
+|[[2011 Winston-Salem Open – Doubles|{{dts|Aug 2011}}]]
+|[[Winston-Salem Open]], US
+|250 Series
+|Hard
+|{{flagicon|GER}} Christopher Kas
+|{{flagicon|ISR}} [[Jonathan Erlich]]&lt;br&gt;{{flagicon|ISR}} Andy Ram
+|6–7&lt;sup&gt;(2–7)&lt;/sup&gt;, 4–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;2–7&lt;/small&gt;
+|[[2012 Heineken Open – Doubles|{{dts|Jan 2012}}]]
+|[[ATP Auckland Open|Auckland Open]], New Zealand
+|250 Series
+|Hard
+|{{flagicon|AUT}} Oliver Marach
+|{{flagicon|CZE}} František Čermák&lt;br&gt;{{flagicon|SVK}} Filip Polášek
+|6–3, 6–2
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;2–8&lt;/small&gt;
+|[[2012 Swedish Open – Men's Doubles|{{dts|Jul 2012}}]]
+|[[Swedish Open]], Sweden
+|250 Series
+|Clay
+|{{flagicon|BRA}} [[Bruno Soares]]
+|{{flagicon|SWE}} [[Robert Lindstedt]]&lt;br&gt;{{flagicon|ROU}} [[Horia Tecău]]
+|3–6, 6–7&lt;sup&gt;(5–7)&lt;/sup&gt;
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;3–8&lt;/small&gt;
+|[[2012 Proton Malaysian Open – Doubles|{{dts|Sep 2012}}]]
+|[[ATP Malaysian Open (tennis)|Malaysian Open]], Malaysia
+|250 Series
+|Hard (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{Flagicon|GBR}} [[Colin Fleming]]&lt;br&gt;{{Flagicon|GBR}} [[Ross Hutchins]]
+|5–7, 7–5, [10–7]
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;4–8&lt;/small&gt;
+|[[2012 Rakuten Japan Open Tennis Championships – Doubles|{{dts|Oct 2012}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Japan Open (tennis)|Japan Open]], Japan
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|IND}} [[Leander Paes]]&lt;br&gt;{{flagicon|CZE}} [[Radek Štěpánek]]
+|6–3, 7–6&lt;sup&gt;(7–5)&lt;/sup&gt;
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;5–8&lt;/small&gt;
+|[[2012 Valencia Open 500 – Doubles|{{dts|Oct 2012}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Valencia Open]], Spain
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|ESP}} [[David Marrero]]&lt;br&gt;{{flagicon|ESP}} [[Fernando Verdasco]]
+|6–3, 6–2
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;6–8&lt;/small&gt;
+|[[2013 Brasil Open – Doubles|{{dts|Feb 2013}}]]
+|[[Brasil Open]], Brazil
+|250 Series
+|Clay (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|CZE}} František Čermák&lt;br&gt;{{flagicon|SVK}} Michal Mertiňák
+|6–7&lt;sup&gt;(5–7)&lt;/sup&gt;, 6–2, [10–7]
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;7–8&lt;/small&gt;
+|[[2013 Barcelona Open Banco Sabadell – Doubles|{{dts|Apr 2013}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Barcelona Open (tennis)|Barcelona Open]], Spain
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|SWE}} Robert Lindstedt&lt;br&gt;{{flagicon|CAN}} [[Daniel Nestor]]
+|5–7, 7–6&lt;sup&gt;(9–7)&lt;/sup&gt;, [10–4]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;7–9&lt;/small&gt;
+|[[2013 Mutua Madrid Open – Men's Doubles|{{dts|May 2013}}]]
+|style=&quot;background:#E9E9E9;&quot;|[[Madrid Open (tennis)|Madrid Open]], Spain
+|style=&quot;background:#E9E9E9;&quot;|Masters 1000
+|Clay
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|USA}} [[Bob Bryan]]&lt;br&gt;{{flagicon|USA}} [[Mike Bryan]]
+|2–6, 3–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;7–10&lt;/small&gt;
+|[[2013 Aegon Championships – Doubles|{{dts|Jun 2013}}]]
+|[[Queen's Club Championships]], United Kingdom
+|250 Series
+|Grass
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|USA}} Bob Bryan&lt;br&gt;{{flagicon|USA}} Mike Bryan
+|6–4, 5–7, [3–10]
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;8–10&lt;/small&gt;
+|[[2013 Aegon International – Men's Doubles|{{dts|Jun 2013}}]]
+|[[Eastbourne International]], United Kingdom
+|250 Series
+|Grass
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|GBR}} Colin Fleming&lt;br&gt;{{flagicon|GBR}} [[Jonathan Marray]]
+|3–6, 6–3, [10–8]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;8–11&lt;/small&gt;
+|[[2013 International German Open – Doubles|{{dts|Jul 2013}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[German Open Tennis Championships|German Open]], Germany
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|POL}} [[Mariusz Fyrstenberg]]&lt;br&gt;{{flagicon|POL}} [[Marcin Matkowski]]
+|6–3, 1–6, [8–10]
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;9–11&lt;/small&gt;
+|[[2013 Rogers Cup – Men's Doubles|{{dts|Aug 2013}}]]
+|style=&quot;background:#E9E9E9;&quot;|[[Canadian Open (tennis)|Canadian Open]], Canada
+|style=&quot;background:#E9E9E9;&quot;|Masters 1000
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|GBR}} Colin Fleming &lt;br&gt;{{flagicon|GBR}} [[Andy Murray]]
+|6–4, 7–6&lt;sup&gt;(7–4)&lt;/sup&gt;
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;9–12&lt;/small&gt;
+|[[2013 US Open – Men's Doubles|{{dts|Sep 2013}}]]
+|style=&quot;background:#F3E6D7;&quot;|[[US Open (tennis)|US Open]], United States
+|style=&quot;background:#F3E6D7;&quot;|Grand Slam
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|IND}} Leander Paes&lt;br&gt;{{flagicon|CZE}} Radek Štěpánek
+|1–6, 3–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;10–12&lt;/small&gt;
+|[[2013 Valencia Open 500 – Doubles|{{dts|Oct 2013}}]]
+|style=&quot;background:#D4F1C5;&quot;|Valencia Open, Spain &lt;small&gt;(2)&lt;/small&gt;
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|USA}} Bob Bryan&lt;br&gt;{{flagicon|USA}} Mike Bryan
+|7–6&lt;sup&gt;(7–3)&lt;/sup&gt;, 6–7&lt;sup&gt;(1–7)&lt;/sup&gt;, [13–11]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;10–13&lt;/small&gt;
+|[[2013 BNP Paribas Masters – Doubles|{{dts|Nov 2013}}]]
+|style=&quot;background:#E9E9E9;&quot;|[[Paris Masters]], France
+|style=&quot;background:#E9E9E9;&quot;|Masters 1000
+|Hard (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|USA}} Bob Bryan&lt;br&gt;{{flagicon|USA}} Mike Bryan
+|3–6, 3–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;10–14&lt;/small&gt;
+|[[2014 Qatar ExxonMobil Open – Doubles|{{dts|Jan 2014}}]]
+|[[Qatar Open (tennis)|Qatar Open]], Qatar
+|250 Series
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|CZE}} [[Tomáš Berdych]]&lt;br&gt;{{flagicon|CZE}} [[Jan Hájek (tennis)|Jan Hájek]] 
+|2–6, 4–6 
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;10–15&lt;/small&gt;
+|[[2014 Heineken Open – Doubles|{{dts|Jan 2014}}]]
+|Auckland Open, New Zealand
+|250 Series
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|AUT}} [[Julian Knowle]]&lt;br&gt;{{flagicon|BRA}} [[Marcelo Melo]]
+|6–4, 3–6, [5–10]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;10–16&lt;/small&gt;
+|[[2014 BNP Paribas Open – Men's Doubles|{{dts|Mar 2014}}]]
+|style=&quot;background:#E9E9E9;&quot;|[[Indian Wells Masters]], United States
+|style=&quot;background:#E9E9E9;&quot;|Masters 1000
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|USA}} Bob Bryan&lt;br&gt;{{flagicon|USA}} Mike Bryan
+|4–6, 3–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;11–16&lt;/small&gt;
+|[[2014 Aegon Championships – Doubles|{{dts|Jun 2014}}]]
+|Queen's Club Championships, United Kingdom
+|250 Series
+|Grass
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|GBR}} [[Jamie Murray]]&lt;br&gt;{{flagicon|AUS}} [[John Peers]]  
+|4–6, 7–6&lt;sup&gt;(7–4)&lt;/sup&gt;, [10–4]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;11–17&lt;/small&gt;
+|[[2014 Aegon International – Men's Doubles|{{dts|Jun 2014}}]]
+|Eastbourne International, United Kingdom
+|250 Series
+|Grass
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|PHI}} [[Treat Huey]]&lt;br&gt;{{flagicon|GBR}}  [[Dominic Inglot]]
+|5–7, 7–5, [8–10]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;11–18&lt;/small&gt;
+|[[2014 International German Open – Doubles|{{dts|Jul 2014}}]]
+|style=&quot;background:#D4F1C5;&quot;|German Open, Germany
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|CRO}} [[Marin Draganja]]&lt;br&gt;{{flagicon|ROU}} [[Florin Mergea]]  
+|4–6, 5–7
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;12–18&lt;/small&gt;
+|[[2014 Rogers Cup – Men's Doubles|{{dts|Aug 2014}}]]
+|style=&quot;background:#E9E9E9;&quot;|Canadian Open, Canada &lt;small&gt;(2)&lt;/small&gt;
+|style=&quot;background:#E9E9E9;&quot;|Masters 1000
+|Hard
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|CRO}} [[Ivan Dodig]]&lt;br&gt;{{flagicon|BRA}} Marcelo Melo
+|6–4, 6–3
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;13–18&lt;/small&gt;
+|[[2015 BMW Open – Doubles|{{dts|May 2015}}]]
+|Bavarian Championships, Germany
+|250 Series
+|Clay
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|GER}} [[Alexander Zverev Jr.|Alexander Zverev]]&lt;br&gt;{{flagicon|GER}} [[Mischa Zverev]]
+|4–6, 6–1, [10–5]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;13–19&lt;/small&gt;
+|[[2015 MercedesCup – Doubles|{{dts|Jun 2015}}]]
+|[[Stuttgart Open]], Germany
+|250 Series
+|Grass
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|IND}} [[Rohan Bopanna]]&lt;br&gt;{{flagicon|ROU}} Florin Mergea
+|5–7, 6–2, [10–7]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;13–20&lt;/small&gt;
+|[[2015 St. Petersburg Open – Doubles|{{dts|Sep 2015}}]]
+|[[St. Petersburg Open]], Russia
+|250 Series
+|Hard (i)
+|{{flagicon|AUT}} Julian Knowle
+|{{flagicon|PHI}} Treat Huey&lt;br&gt;{{flagicon|FIN}} [[Henri Kontinen]]
+|5–7, 3–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;14–20&lt;/small&gt;
+|[[2015 Swiss Indoors – Doubles|{{dts|Nov 2015}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Swiss Indoors]], Switzerland
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard (i)
+|{{flagicon|BRA}} Bruno Soares
+|{{flagicon|GBR}} Jamie Murray&lt;br&gt;{{flagicon|AUS}} John Peers
+|7–5, 7–5
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–21&lt;/small&gt;
+|[[2016 Qatar ExxonMobil Open – Doubles|{{dts|Jan 2016}}]]
+|Qatar Open, Qatar
+|250 Series
+|Hard
+|{{flagicon|GER}} Philipp Petzschner
+|{{flagicon|ESP}} [[Feliciano López]]&lt;br&gt;{{flagicon|ESP}} [[Marc López]]
+|4–6, 3–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–22&lt;/small&gt;
+|[[2016 ABN AMRO World Tennis Tournament – Doubles|{{dts|Feb 2016}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Rotterdam Open]], Netherlands
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard (i)
+|{{flagicon|GER}} Philipp Petzschner
+|{{flagicon|FRA}} [[Nicolas Mahut]]&lt;br&gt;{{flagicon|CAN}} [[Vasek Pospisil]]
+|6–7&lt;sup&gt;(2–7)&lt;/sup&gt;, 4–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–23&lt;/small&gt;
+|[[2016 Abierto Mexicano Telcel – Men's Doubles|{{dts|Feb 2016}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Mexican Open (tennis)|Mexican Open]], Mexico
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard
+|{{flagicon|GER}} Philipp Petzschner
+|{{flagicon|PHI}} Treat Huey&lt;br&gt;{{flagicon|BLR}} Max Mirnyi
+|6–7&lt;sup&gt;(5–7)&lt;/sup&gt;, 3–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–24&lt;/small&gt;
+|[[2016 Gerry Weber Open – Doubles|{{dts|Jun 2016}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Halle Open]], Germany
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Grass
+|{{flagicon|POL}} [[Łukasz Kubot]]
+|{{flagicon|RSA}} [[Raven Klaasen]]&lt;br&gt;{{flagicon|USA}} Rajeev Ram
+|6–7&lt;sup&gt;(5–7)&lt;/sup&gt;, 2–6
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–25&lt;/small&gt;
+|[[2016 Citi Open – Men's Doubles|{{dts|Jul 2016}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Washington Open (tennis)|Washington Open]], United States
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Hard
+|{{flagicon|POL}} Łukasz Kubot
+|{{flagicon|CAN}} Daniel Nestor&lt;br&gt;{{flagicon|FRA}} [[Édouard Roger-Vasselin]]
+|6–7&lt;sup&gt;(3–7)&lt;/sup&gt;, 6–7&lt;sup&gt;(4–7)&lt;/sup&gt;
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;14–26&lt;/small&gt;
+|[[2017 Barcelona Open Banco Sabadell – Doubles|{{dts|Apr 2017}}]]
+|style=&quot;background:#D4F1C5;&quot;|Barcelona Open, Spain
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|GER}} Philipp Petzschner
+|{{flagicon|ROU}} Florin Mergea&lt;br&gt;{{flagicon|PAK}} [[Aisam-ul-Haq Qureshi]]
+|4–6, 3–6
+|-
+|bgcolor=98FB98|Win
+|&lt;small&gt;15–26&lt;/small&gt;
+|[[2017 ATP Shenzhen Open – Doubles|{{dts|Sep 2017}}]]
+|[[Shenzhen Open]], China
+|250 Series
+|Hard
+|{{flagicon|USA}} Rajeev Ram
+|{{flagicon|CRO}} [[Nikola Mektić]]&lt;br&gt;{{flagicon|USA}} [[Nicholas Monroe]]
+|6–3, 6–2
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;15–27&lt;/small&gt;
+|[[2018 Diema Xtra Sofia Open – Doubles|{{dts|Feb 2018}}]]
+|[[ATP Sofia Open|Sofia Open]], Bulgaria
+|250 Series
+|Hard (i)
+|{{flagicon|CRO}} Nikola Mektić
+|{{flagicon|NED}} [[Robin Haase]]&lt;br /&gt;{{flagicon|NED}} [[Matwé Middelkoop]]
+|7–5, 4–6, [4–10]
+|-
+|bgcolor=FFA07A|Loss
+|&lt;small&gt;15–28&lt;/small&gt;
+|[[2018 Rio Open – Doubles|{{dts|Feb 2018}}]]
+|style=&quot;background:#D4F1C5;&quot;|[[Rio Open]], Brazil
+|style=&quot;background:#D4F1C5;&quot;|500 Series
+|Clay
+|{{flagicon|CRO}} Nikola Mektić
+|{{flagicon|ESP}} David Marrero &lt;br /&gt;{{flagicon|ESP}} Fernando Verdasco
+|7–5, 5–7, [8–10]
+|}
+
+==Performance timelines==
+{{performance key}}
+
+===Singles===
+
+{| class=wikitable style=text-align:center;font-size:96%
+! Tournament !! [[2002 ATP Tour|2002]] !! [[2003 ATP Tour|2003]] !! [[2004 ATP Tour|2004]] !! [[2005 ATP Tour|2005]] !! [[2006 ATP Tour|2006]] !! [[2007 ATP Tour|2007]] !! [[2008 ATP Tour|2008]] !! [[2009 ATP World Tour|2009]] !! [[2010 ATP World Tour|2010]] !! [[2011 ATP World Tour|2011]] !! width=35|W–L
+|-
+| colspan=12 align=left | '''[[Grand Slam (tennis)|Grand Slam tournaments]]
+|-
+| align=left | [[Australian Open]]
+| [[2002 Australian Open – Men's Singles Qualifying|Q1]]
+| A
+| [[2004 Australian Open – Men's Singles Qualifying|Q3]]
+| A
+| A
+| [[2007 Australian Open – Men's Singles Qualifying|Q2]]
+| [[2008 Australian Open – Men's Singles Qualifying|Q2]]
+| [[2009 Australian Open – Men's Singles Qualifying|Q1]]
+| A
+| [[2011 Australian Open – Men's Singles Qualifying|Q1]]
+| 0–0
+|-
+| align=left | [[French Open]]
+| [[2002 French Open – Men's Singles Qualifying|Q1]]
+| [[2003 French Open – Men's Singles Qualifying|Q2]]
+| bgcolor=afeeee | [[2004 French Open – Men's Singles|1R]]
+| [[2005 French Open – Men's Singles Qualifying|Q1]]
+| A
+| bgcolor=afeeee | [[2007 French Open – Men's Singles|1R]]
+| [[2008 French Open – Men's Singles Qualifying|Q1]]
+| A
+| A
+| A
+| 0–2
+|-
+| align=left | [[Wimbledon Championships|Wimbledon]]
+| [[2002 Wimbledon Championships – Men's Singles Qualifying|Q1]]
+| [[2003 Wimbledon Championships – Men's Singles Qualifying|Q3]]
+| bgcolor=afeeee | [[2004 Wimbledon Championships – Men's Singles|2R]]
+| [[2005 Wimbledon Championships – Men's Singles Qualifying|Q1]]
+| bgcolor=afeeee | [[2006 Wimbledon Championships – Men's Singles|1R]]
+| bgcolor=afeeee | [[2007 Wimbledon Championships – Men's Singles|1R]]
+| bgcolor=afeeee | [[2008 Wimbledon Championships – Men's Singles|1R]]
+| bgcolor=afeeee | [[2009 Wimbledon Championships – Men's Singles|1R]]
+| [[2010 Wimbledon Championships – Men's Singles Qualifying|Q3]]
+| A
+| 1–5
+|-
+| align=left | [[US Open (tennis)|US Open]]
+| [[2002 US Open – Men's Singles Qualifying|Q2]]
+| A
+| bgcolor=afeeee | [[2004 US Open – Men's Singles|3R]]
+| [[2005 US Open – Men's Singles Qualifying|Q3]]
+| [[2006 US Open – Men's Singles Qualifying|Q3]]
+| [[2007 US Open – Men's Singles Qualifying|Q3]]
+| [[2008 US Open – Men's Singles Qualifying|Q1]]
+| [[2009 US Open – Men's Singles Qualifying|Q3]]
+| [[2010 US Open – Men's Singles Qualifying|Q1]]
+| A
+| 2–1
+|-
+! style=text-align:left|Win–Loss
+! 0–0
+! 0–0
+! 3–3
+! 0–0
+! 0–1
+! 0–2
+! 0–1
+! 0–1
+! 0–0
+! 0–0
+! 3–8
+|}
+
+===Doubles===
+
+''Current through the [[2017 ATP World Tour]]''.
+{| class=wikitable style=text-align:center;font-size:96%
+! Tournament !! [[1999 ATP Tour|1999]] !! [[2000 ATP Tour|2000]] !! [[2001 ATP Tour|2001]] !! [[2002 ATP Tour|2002]] !! [[2003 ATP Tour|2003]] !! [[2004 ATP Tour|2004]] !! [[2005 ATP Tour|2005]] !! [[2006 ATP Tour|2006]] !! [[2007 ATP Tour|2007]] !! [[2008 ATP Tour|2008]] !! [[2009 ATP World Tour|2009]] !! [[2010 ATP World Tour|2010]] !! [[2011 ATP World Tour|2011]] !! [[2012 ATP World Tour|2012]] !! [[2013 ATP World Tour|2013]] !! [[2014 ATP World Tour|2014]] !! [[2015 ATP World Tour|2015]] !! [[2016 ATP World Tour|2016]] !! [[2017 ATP World Tour|2017]] !! SR !! W–L
+|-
+| colspan=&quot;22&quot; align=&quot;left&quot; | '''[[Grand Slam (tennis)|Grand Slam Tournaments]]
+|-
+| align=left | [[Australian Open (tennis)|Australian Open]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2007 Australian Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2008 Australian Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2009 Australian Open – Men's Doubles|2R]]
+| A
+| bgcolor=afeeee | [[2011 Australian Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2012 Australian Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2013 Australian Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2014 Australian Open – Men's Doubles|3R]]
+| bgcolor=afeeee | [[2015 Australian Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2016 Australian Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2017 Australian Open – Men's Doubles|1R]]
+| 0 / 10
+| 6–10
+|-
+| align=left | [[French Open (tennis)|French Open]]
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2004 French Open – Men's Doubles|3R]]
+| A
+| bgcolor=ffebcd | [[2006 French Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2007 French Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2008 French Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2009 French Open – Men's Doubles|1R]]
+| A
+| bgcolor=afeeee | [[2011 French Open – Men's Doubles|3R]]
+| bgcolor=afeeee | [[2012 French Open – Men's Doubles|2R]]
+| bgcolor=yellow | [[2013 French Open – Men's Doubles|SF]]
+| bgcolor=afeeee | [[2014 French Open – Men's Doubles|2R]]
+| bgcolor=ffebcd | [[2015 French Open – Men's Doubles|QF]]
+| bgcolor=yellow | [[2016 French Open – Men's Doubles|SF]]
+| bgcolor=afeeee | [[2017 French Open – Men's Doubles|1R]]
+| 0 / 12
+| 19–12
+|-
+| align=left | [[Wimbledon Championships|Wimbledon]]
+| A
+| A
+| A
+| [[2002 Wimbledon Championships – Men's Doubles Qualifying|Q1]]
+| A
+| [[2004 Wimbledon Championships – Men's Doubles Qualifying|Q1]]
+| bgcolor=afeeee | [[2005 Wimbledon Championships – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2006 Wimbledon Championships – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2007 Wimbledon Championships – Men's Doubles|3R]]
+| bgcolor=ffebcd | [[2008 Wimbledon Championships – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2009 Wimbledon Championships – Men's Doubles|2R]]
+| [[2010 Wimbledon Championships – Men's Doubles Qualifying|Q2]]
+| bgcolor=yellow | [[2011 Wimbledon Championships – Men's Doubles|SF]]
+| bgcolor=afeeee | [[2012 Wimbledon Championships – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2013 Wimbledon Championships – Men's Doubles|3R]]
+| bgcolor=ffebcd | [[2014 Wimbledon Championships – Men's Doubles|QF]]
+| bgcolor=ffebcd | [[2015 Wimbledon Championships – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2016 Wimbledon Championships – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2017 Wimbledon Championships – Men's Doubles|2R]]
+| 0 / 12
+| 21–12
+|-
+| align=left | [[US Open (tennis)|US Open]]
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2004 US Open – Men's Doubles|2R]]
+| A
+| bgcolor=afeeee | [[2006 US Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2007 US Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2008 US Open – Men's Doubles|1R]]
+| bgcolor=afeeee | [[2009 US Open – Men's Doubles|1R]]
+| A
+| bgcolor=afeeee | [[2011 US Open – Men's Doubles|1R]]
+| bgcolor=ffebcd | [[2012 US Open – Men's Doubles|QF]]
+| bgcolor=thistle | [[2013 US Open – Men's Doubles|F]]
+| bgcolor=ffebcd | [[2014 US Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2015 US Open – Men's Doubles|1R]]
+| bgcolor=ffebcd | [[2016 US Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2017 US Open – Men's Doubles|1R]]
+| 0 / 12
+| 15–12
+|-
+! style=text-align:left|Win–Loss
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 3–2
+! 1–1
+! 4–3
+! 2–4
+! 4–4
+! 2–4
+! 0–0
+! 6–4
+! 4–4
+! 12–4
+! 9–4
+! 7–4
+! 6–4
+! 1–4
+! 0 / 46
+! 61–46
+|-
+| colspan=&quot;22&quot; align=&quot;left&quot; | '''Year-end Championship
+|-
+| align=left | [[ATP Finals]]
+| colspan=14 style=color:#ccc|Did Not Qualify
+| bgcolor=yellow | [[2013 ATP World Tour Finals – Doubles|SF]]
+| bgcolor=afeeee | [[2014 ATP World Tour Finals – Doubles|RR]]
+| colspan=3 style=color:#ccc|Did Not Qualify
+| 0 / 2
+| 3–4
+|-
+| colspan=&quot;22&quot; align=&quot;left&quot; | '''[[ATP World Tour Masters 1000]]
+|-
+| align=left | [[Indian Wells Masters|Indian Wells]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2012 BNP Paribas Open – Men's Doubles|1R]]
+| bgcolor=yellow | [[2013 BNP Paribas Open – Men's Doubles|SF]]
+| bgcolor=thistle | [[2014 BNP Paribas Open – Men's Doubles|F]]
+| bgcolor=afeeee | [[2015 BNP Paribas Open – Men's Doubles|1R]]
+| A
+| bgcolor=afeeee | [[2017 BNP Paribas Open – Men's Doubles|1R]]
+| 0 / 5
+| 8–5
+|-
+| align=left | [[Miami Masters|Miami]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2012 Sony Ericsson Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2013 Sony Open Tennis – Men's Doubles|1R]]
+| bgcolor=ffebcd | [[2014 Sony Open Tennis – Men's Doubles|QF]]
+| A
+| bgcolor=ffebcd|[[2016 Miami Open – Men's Doubles|QF]]
+| bgcolor=ffebcd|[[2017 Miami Open – Men's Doubles|QF]]
+|0 / 5
+|7–5
+|-
+| align=left | [[Monte-Carlo Masters|Monte Carlo]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=ffebcd | [[2012 Monte-Carlo Rolex Masters – Doubles|QF]]
+| bgcolor=afeeee | [[2013 Monte-Carlo Rolex Masters – Doubles|2R]]
+| bgcolor=ffebcd | [[2014 Monte-Carlo Rolex Masters – Doubles|QF]]
+| bgcolor=ffebcd | [[2015 Monte-Carlo Rolex Masters – Doubles|QF]]
+| bgcolor=afeeee | [[2016 Monte-Carlo Rolex Masters – Doubles|2R]]
+| bgcolor=afeeee | [[2017 Monte-Carlo Rolex Masters – Doubles|1R]]
+| 0 / 6
+| 5–6
+|-
+| align=left | [[Madrid Open (tennis)|Madrid]]
+| colspan=3 style=color:#ccc|Not Held
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2012 Mutua Madrid Open – Men's Doubles|1R]]
+| bgcolor=D8BFD8 | [[2013 Mutua Madrid Open – Men's Doubles|F]]
+| bgcolor=ffebcd | [[2014 Mutua Madrid Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2015 Mutua Madrid Open – Men's Doubles|1R]]
+| bgcolor=ffebcd | [[2016 Mutua Madrid Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2017 Mutua Madrid Open – Men's Doubles|1R]]
+| 0 / 6
+| 5–6
+|-
+| align=left | [[Rome Masters|Rome]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=afeeee | [[2012 Internazionali BNL d'Italia – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2013 Internazionali BNL d'Italia – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2014 Internazionali BNL d'Italia – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2015 Internazionali BNL d'Italia – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2016 Internazionali BNL d'Italia – Men's Doubles|2R]]
+| A
+| 0 / 5
+| 0–5
+|-
+| align=left | [[Canada Masters|Canada]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=lime | [[2013 Rogers Cup – Men's Doubles|'''W]]
+| bgcolor=lime | [[2014 Rogers Cup – Men's Doubles|'''W]]
+| bgcolor=yellow | [[2015 Rogers Cup – Men's Doubles|SF]]
+| bgcolor=afeeee | [[2016 Rogers Cup – Men's Doubles|1R]]
+| A
+| 2 / 4
+| 10–2
+|-
+| align=left | [[Cincinnati Masters|Cincinnati]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=ffebcd | [[2013 Western &amp; Southern Open – Men's Doubles|QF]]
+| bgcolor=ffebcd | [[2014 Western &amp; Southern Open – Men's Doubles|QF]]
+| bgcolor=afeeee | [[2015 Western &amp; Southern Open – Men's Doubles|2R]]
+| bgcolor=afeeee | [[2016 Western &amp; Southern Open – Men's Doubles|1R]]
+| A
+| 0 / 4
+| 3–4
+|-
+| align=left | [[Shanghai Masters (tennis)|Shanghai]]
+| colspan=10 style=color:#ccc|Not Held
+| A
+| A
+| bgcolor=afeeee | [[2011 Shanghai Rolex Masters – Doubles|2R]]
+| bgcolor=afeeee | [[2012 Shanghai Rolex Masters – Doubles|2R]]
+| A
+| bgcolor=ffebcd | [[2014 Shanghai Rolex Masters – Doubles|QF]]
+| bgcolor=afeeee | [[2015 Shanghai Rolex Masters – Doubles|1R]]
+| A
+| A
+| 0 / 4
+| 2–4
+|-
+| align=left | [[Paris Masters|Paris]]
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| A
+| bgcolor=ffebcd | [[2011 BNP Paribas Masters – Doubles|QF]]
+| bgcolor=ffebcd | [[2012 BNP Paribas Masters – Doubles|QF]]
+| bgcolor=D8BFD8 | [[2013 BNP Paribas Masters – Doubles|F]]
+| bgcolor=afeeee | [[2014 BNP Paribas Masters – Doubles|2R]]
+| bgcolor=afeeee | [[2015 BNP Paribas Masters – Doubles|2R]]
+| A
+| A
+| 0 / 5
+| 6–5
+|-
+! style=text-align:left|Win–Loss
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 0–0
+! 2–2
+! 5–7
+! 14–7
+! 14–8
+! 5–8
+! 4–6
+! 2–4
+! 2 / 44
+! 46–42
+|-
+| colspan=&quot;22&quot; align=&quot;left&quot; | '''National Representation'''
+|-
+| align=left | [[Tennis at the Summer Olympics|Olympics]]
+| style=color:#ccc|NH
+| A
+| colspan=3 style=color:#ccc|Not Held
+| A
+| colspan=3 style=color:#ccc|Not Held
+| A
+| colspan=3 style=color:#ccc|Not Held
+| bgcolor=afeeee | [[Tennis at the 2012 Summer Olympics – Men's doubles|2R]]
+| colspan=3 style=color:#ccc|Not Held
+| bgcolor=ffebcd | [[Tennis at the 2016 Summer Olympics – Men's Doubles|QF]]
+| style=color:#ccc|NH
+| 0 / 2
+| 3–2
+|-
+|align=&quot;left&quot;|[[Davis Cup]]
+|bgcolor=ecf2ff|[[1999 Davis Cup|PO]]
+|bgcolor=afeeee|[[2000 Davis Cup|1R]]
+|A
+|bgcolor=ecf2ff|[[2002 Davis Cup|Z1]]
+|bgcolor=ecf2ff|[[2003 Davis Cup|PO]]
+|bgcolor=ecf2ff|[[2004 Davis Cup|PO]]
+|bgcolor=afeeee|[[2005 Davis Cup|1R]]
+|bgcolor=afeeee|[[2006 Davis Cup|1R]]
+|bgcolor=afeeee|[[2007 Davis Cup|1R]]
+|bgcolor=ecf2ff|[[2008 Davis Cup|PO]]
+|bgcolor=afeeee|[[2009 Davis Cup|1R]]
+|bgcolor=ecf2ff|[[2010 Davis Cup|PO]]
+|bgcolor=ecf2ff|[[2011 Davis Cup|PO]]
+|bgcolor=ffebcd|[[2012 Davis Cup|QF]]
+|bgcolor=afeeee|[[2013 Davis Cup|1R]]
+|bgcolor=ecf2ff|[[2014 Davis Cup|Z1]]
+|bgcolor=ecf2ff|[[2015 Davis Cup|Z1]]
+|bgcolor=ecf2ff|[[2016 Davis Cup|Z1]]
+|A
+|0 / 7
+|7–10
+|-
+!style=text-align:left|Win–Loss
+!0–1
+!0–1
+!0–0
+!0–1
+!2–1
+!1–0
+!0–0
+!0–0
+!0–0
+!0–0
+!0–1
+!0–1
+!1–0
+!2–2
+!1–0
+!0–2
+!0–1
+!3–1
+!0–0
+!0 / 9
+!10–12
+|-
+| colspan=&quot;22&quot; align=&quot;left&quot; | '''Career Statistics
+|-
+! !!1999!!2000!!2001!!2002!!2003!!2004!!2005!!2006!!2007!!2008!!2009!!2010!!2011!!2012!!2013!!2014!!2015!!2016!!2017!!colspan=2|Career
+|-
+! style=text-align:left|Titles
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 0
+! 1
+! 4
+! 5
+! 2
+! 2
+! 0
+! 1
+! colspan=&quot;2&quot; | 15
+|- bgcolor=&quot;efefef&quot;
+| style=text-align:left|Finals
+| 0
+| 0
+| 0
+| 0
+| 1
+| 0
+| 0
+| 1
+| 0
+| 1
+| 0
+| 0
+| 5
+| 5
+| 10
+| 7
+| 4
+| 5
+| 2
+! colspan=&quot;2&quot; | 41
+|-
+! style=text-align:left|Overall Win–Loss
+! 3–2
+! 0–2
+! 1–2
+! 0–3
+! 6–3
+! 6–6
+! 1–2
+! 7–9
+! 11–14
+! 14–12
+! 14–16
+! 2–3
+! 36–23
+! 36–24
+! 56–20
+! 43–27
+! 38–27
+! 35–25
+! 22–24
+! colspan=&quot;2&quot; | 331–244
+|- bgcolor=&quot;efefef&quot;
+| align=left | Year-end Ranking
+| 208
+| 455
+| 294
+| 197
+| 90
+| 95
+| 98
+| 52
+| 62
+| 49
+| 73
+| 103
+| 18
+| 22
+| bgcolor=99ccff | 4
+| bgcolor=EEE8AA | 10
+| 24
+| 23
+| 54
+! colspan=2 | 58%
+|}
+
+==External links and references==
+{{Commons category|Alexander Peya}}
+* {{ATP|id=P467}}
+* {{ITF profile|id=10021521}}
+* {{DavisCup player|id=800191986}}
+
+{{ATP Masters Series tournament doubles winners}}
+{{Top ten Austrian male doubles tennis players}}
+
+{{DEFAULTSORT:Peya, Alexander}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Austrian male tennis players]]
+[[Category:Sportspeople from Vienna]]
+[[Category:Tennis players at the 2012 Summer Olympics]]
+[[Category:Tennis players at the 2016 Summer Olympics]]
+[[Category:Olympic tennis players of Austria]]</text>
+      <sha1>nieag0byqpmi1od21jzc9mzlijgi700</sha1>
+    </revision>
+  </page>
+</mediawiki>
