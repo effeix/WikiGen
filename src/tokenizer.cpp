@@ -52,5 +52,5 @@ void sanitize(std::string& content) {
 }
 
 bool is_unwanted_char(char c) {
-	return !(c == '.' || c == ',' || c == '!' || c == '?' || c == ':' || c == ';') && !std::isalpha(c);
+	return !(c == '.' || c == ',' || c == '?') && !std::isalpha(c);
 }

@@ -2,6 +2,7 @@
 #include <string>
 #include <map>
 
+#include "../inc/Trie.hpp"
 #include "../inc/tokenizer.hpp"
 #include "../inc/main.hpp"
 
@@ -112,7 +113,7 @@ void print_ngrams_map(std::map<std::vector<std::string>, std::map<std::string, i
 
 int main(int argc, char const *argv[]) {
 
-	std::string filename = TINY_FILE;	
+	std::string filename = ULTRA_TINY_FILE;	
 	std::vector<std::string> mini_corpus = read_xml(filename);
 
 	unsigned int ngram_n = N;
@@ -123,6 +124,11 @@ int main(int argc, char const *argv[]) {
 	std::map<std::vector<std::string>, std::map<std::string, int>> abs_frequency = ngrams_abs_frequency(ngrams);
 
 	print_ngrams_map(abs_frequency);
+
+	Trie* trie = new Trie();
+	trie->build_trie(abs_frequency);
+
+	trie->print_trie(trie->get_root());
 
     return 0;
 }
