@@ -1,5 +1,8 @@
-#include "NGram.hpp"
-#include "Node.hpp"
+#ifndef __WIKIGEN_TRIE_H__
+#define __WIKIGEN_TRIE_H__
+
+#include "ngram.hpp"
+#include "node.hpp"
 
 class Trie {
 protected:
@@ -11,7 +14,6 @@ public:
     void search(ngram, bool &result);
     void print_trie(Node* node);
     Node* get_root();
-
-    // void print_tree(map<char, Node*> tree);
-    // void print();
 };
+
+#endif/*__WIKIGEN_TRIE_H__*/

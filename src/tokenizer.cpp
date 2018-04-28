@@ -6,9 +6,9 @@
 #include <vector>
 
 #include <boost/tokenizer.hpp>
-#include "../lib/pugixml-1.9/pugixml.hpp"
+#include "pugixml.hpp"
 
-#include "../inc/tokenizer.hpp"
+#include "tokenizer.hpp"
 
 std::vector<std::string> read_xml(std::string& fname) {
 	pugi::xml_document document;

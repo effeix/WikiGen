@@ -1,10 +1,10 @@
 #include <iostream>
-#include <string>
 #include <map>
+#include <string>
 
-#include "../inc/Trie.hpp"
-#include "../inc/tokenizer.hpp"
-#include "../inc/main.hpp"
+#include "tokenizer.hpp"
+#include "trie.hpp"
+#include "main.hpp"
 
 
 // Based on: https://github.com/errollw/gengram/blob/master/gengram.py

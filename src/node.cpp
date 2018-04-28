@@ -1,4 +1,4 @@
-#include "../inc/Node.hpp"
+#include "node.hpp"
 
 std::string Node::get_value() {
 	return this->value;

@@ -1,6 +1,6 @@
 #include <iostream>
-#include "../inc/Node.hpp"
-#include "../inc/Trie.hpp"
+#include "node.hpp"
+#include "trie.hpp"
 
 Node* Trie::get_root() {
 	return this->root;
