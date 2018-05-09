@@ -5,15 +5,16 @@
 #include "node.hpp"
 
 class Trie {
-protected:
-    Node* root;
-    std::vector<Node*> children;
+private:
+	std::vector<Node *> trie;
 public:
-    void build_trie(ngram_freq_table table);
-    void insert(ngram ngram);
-    void search(ngram, bool &result);
-    void print_trie(Node* node);
-    Node* get_root();
+	Trie();
+	~Trie();
+	void add(Node * node);
+    void build_trie(ngram_frequency_map nfm);
+    void print_trie(Node * node);
+    int count(Node * node);
+    Node * root;
 };
 
 #endif/*__WIKIGEN_TRIE_H__*/

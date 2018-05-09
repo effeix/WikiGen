@@ -1,45 +1,71 @@
 #include <iostream>
+#include <string>
+#include <vector>
 #include "node.hpp"
 #include "trie.hpp"
 
-Node* Trie::get_root() {
-	return this->root;
+Trie::Trie() {}
+
+Trie::~Trie() {
+	for(unsigned int i = 0; i < this->trie.size(); i++) {
+    	delete this->trie[i];
+  	}
 }
 
-void Trie::print_trie(Node* node){
-	std::cout << node->get_children().size() << std::endl;
-	for (auto it = node->get_children().begin(); it != node->get_children().end(); it++)
-	{	
-		std::cout << it->second << std::endl;
-	}
+void Trie::add(Node * node) {
+	this->trie.push_back(node);
 }
 
-void Trie::build_trie(ngram_freq_table table) {
-	Node* root = new Node();
-	this->root = root;
+void Trie::build_trie(ngram_frequency_map nfm) {
+	/*
+		nfm = {
+			["you", "are", "the", "best"]: 2,
+			["you", "are", "the", "worst"]: 1
+		}
+	*/
 
-	for(auto it = table.begin(); it != table.end(); ++it) {
-		Node* current_node = root;
+	this->root = new Node("$");
+	Node * current_node;
+	
+	std::string current_word;
+
+	for(auto it = nfm.begin(); it != nfm.end(); ++it) {
+		
+		current_node = this->root;
+
 		for(unsigned int i = 0; i < it->first.size(); i++) {
-			// if word not in node.children
-			std::string cur_word = it->first[i];
-			if(current_node->get_children().find(cur_word) == current_node->get_children().end()) {
-				// Create new node with word ng[i] and add to child list of current node
-				Node* new_node = new Node();
-				new_node->set_value(cur_word);
-				current_node->set_child(cur_word, new_node);
+			current_word = it->first[i];
+			Node * node;
 
-				current_node = new_node;
+			if(current_node->get_children().count(current_word) == 0) {
+				node = new Node(current_word);
+				current_node->add_child(node);
+			}
+			else {
+				node = current_node->get_children()[current_word];
 			}
 
+			current_node = node;
+
 			if(i == it->first.size() - 1) {
-				for(auto itt = table.at(it->first).begin(); itt != table.at(it->first).end(); ++itt) {
-					Node* next_word_node = new Node();
-					next_word_node->set_value(itt->first);
-					next_word_node->set_count(itt->second);
-					current_node->set_child(itt->first, next_word_node);
-				}
+				current_node->set_count(it->second);
 			}
 		}
 	}
+
+	//this->count(this->root);
+}
+
+int Trie::count(Node * node) {
+	if(node->get_children().size() != 0) {
+		int count = 0;
+
+		for(auto it = node->get_children().begin(); it != node->get_children().end(); ++it) {
+			count += this->count(it->second);
+		}
+
+		node->set_count(count);
+	}
+
+	return node->get_count();
 }

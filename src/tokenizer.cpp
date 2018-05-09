@@ -9,6 +9,7 @@
 #include "pugixml.hpp"
 
 #include "tokenizer.hpp"
+#include "main.hpp"
 
 std::vector<std::string> read_xml(std::string& fname) {
 	pugi::xml_document document;
@@ -27,8 +28,13 @@ std::vector<std::string> read_xml(std::string& fname) {
 		
 		sanitize(content);
 		std::vector<std::string> tokenized = tokenize(content);
-		
+
 		mini_corpus.insert(mini_corpus.end(), tokenized.begin(), tokenized.end());
+	}
+
+	if(mini_corpus.size() < N) {
+		std::cout << "Need at least " << N << " words to create ngrams!" << std::endl;
+		exit(EXIT_FAILURE);
 	}
 
 	return mini_corpus;

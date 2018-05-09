@@ -6,16 +6,22 @@
 
 class Node {
 private:
-	std::string value = "";
+	std::string value;
 	std::map<std::string, Node*> children;
-	int count = 0;
+	int count;
 public:
+	Node(std::string value);
+
 	std::string get_value();
-	void set_value(std::string _value);
+	void set_value(std::string value);
+
 	std::map<std::string, Node*> get_children();
-	void set_child(std::string word, Node* node);
-	void set_count(int _count);
+	void add_child(Node * node);
+
+	void set_count(int count);
 	int get_count();
+
+	int level;
 };
 
 #endif/*__WIKIGEN_NODE_H__*/
