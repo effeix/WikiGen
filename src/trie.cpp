@@ -69,3 +69,10 @@ int Trie::count(Node * node) {
 
 	return node->get_count();
 }
+
+void Trie::print_trie(Node * node) {
+	std::cout << "Parent: " << node->get_value() << std::endl;
+	for(auto it = node->get_children().begin(); it != node->get_children().end(); ++it) {
+		std::cout << "  Child: " << it->second->get_value() << std::endl;
+	}
+}
