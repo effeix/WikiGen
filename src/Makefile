@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -Wall -pedantic --std=c++11
+CFLAGS = -g -Wall -pedantic --std=c++11
 LIB_DIR = ../lib
 LIBS = pugixml
 INC_DIR = ../inc

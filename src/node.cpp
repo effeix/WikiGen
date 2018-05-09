@@ -1,6 +1,7 @@
 #include "node.hpp"
 
-Node::Node(std::string value) : value(value) {
+Node::Node(std::string _value) {
+	this->value = _value;
 	this->set_count(0);
 }
 
@@ -9,11 +10,19 @@ std::string Node::get_value() {
 }
 
 void Node::set_value(std::string value) {
-	this->value.assign(value);
+	this->value = value;
 }
 
 std::map<std::string, Node*> Node::get_children() {
 	return this->children;
+}
+
+std::map<std::string, Node*>::iterator Node::begin() {
+	return this->children.begin();
+}
+
+std::map<std::string, Node*>::iterator Node::end() {
+	return this->children.end();
 }
 
 void Node::add_child(Node * node) {

@@ -8,7 +8,7 @@ Trie::Trie() {}
 
 Trie::~Trie() {
 	for(unsigned int i = 0; i < this->trie.size(); i++) {
-    	delete this->trie[i];
+    	//delete this->trie[i];
   	}
 }
 
@@ -72,7 +72,7 @@ int Trie::count(Node * node) {
 
 void Trie::print_trie(Node * node) {
 	std::cout << "Parent: " << node->get_value() << std::endl;
-	for(auto it = node->get_children().begin(); it != node->get_children().end(); ++it) {
+	for(std::map<std::string, Node*>::iterator it = node->begin(); it != node->end(); ++it) {
 		std::cout << "  Child: " << it->second->get_value() << std::endl;
 	}
 }

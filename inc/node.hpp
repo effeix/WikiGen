@@ -16,6 +16,9 @@ public:
 	void set_value(std::string value);
 
 	std::map<std::string, Node*> get_children();
+	std::map<std::string, Node*>::iterator end();
+	std::map<std::string, Node*>::iterator begin();
+
 	void add_child(Node * node);
 
 	void set_count(int count);
