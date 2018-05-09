@@ -71,8 +71,7 @@ int Trie::count(Node * node) {
 }
 
 void Trie::print_trie(Node * node) {
-	std::cout << "Parent: " << node->get_value() << std::endl;
 	for(std::map<std::string, Node*>::iterator it = node->begin(); it != node->end(); ++it) {
-		std::cout << "  Child: " << it->second->get_value() << std::endl;
+		this->print_trie(it->second);
 	}
 }

@@ -69,7 +69,7 @@ int main(int argc, char const *argv[]) {
 
 	Trie * trie = new Trie();
 	trie->build_trie(nfm);
-	trie->print_trie(trie->root->get_children()["wb"]);
+	trie->print_trie(trie->root);
 
     return 0;
 }
