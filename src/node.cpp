@@ -17,16 +17,20 @@ std::map<std::string, Node*> Node::get_children() {
 	return this->children;
 }
 
+void Node::add_child(Node * node) {
+	this->children[node->get_value()] = node;
+}
+
+bool Node::has_children() {
+	return this->children.empty();
+}
+
 std::map<std::string, Node*>::iterator Node::begin() {
 	return this->children.begin();
 }
 
 std::map<std::string, Node*>::iterator Node::end() {
 	return this->children.end();
-}
-
-void Node::add_child(Node * node) {
-	this->children[node->get_value()] = node;
 }
 
 int Node::get_count() {

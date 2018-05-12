@@ -53,14 +53,14 @@ void Trie::build_trie(ngram_frequency_map nfm) {
 		}
 	}
 
-	//this->count(this->root);
+	this->count(this->root);
 }
 
 int Trie::count(Node * node) {
 	if(node->get_children().size() != 0) {
 		int count = 0;
 
-		for(auto it = node->get_children().begin(); it != node->get_children().end(); ++it) {
+		for(auto it = node->begin(); it != node->end(); ++it) {
 			count += this->count(it->second);
 		}
 
@@ -71,6 +71,7 @@ int Trie::count(Node * node) {
 }
 
 void Trie::print_trie(Node * node) {
+	std::cout << "Node: " << node->get_value() << " - " << node->get_count() << std::endl;
 	for(std::map<std::string, Node*>::iterator it = node->begin(); it != node->end(); ++it) {
 		this->print_trie(it->second);
 	}
