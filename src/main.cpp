@@ -1,3 +1,8 @@
+#include <boost/mpi.hpp>
+#include <boost/mpi/environment.hpp>
+#include <boost/mpi/communicator.hpp>
+#include <boost/serialization/vector.hpp>
+#include <boost/serialization/string.hpp>
 #include <algorithm>
 #include <iostream>
 #include <map>
@@ -8,6 +13,12 @@
 #include "tokenizer.hpp"
 #include "trie.hpp"
 #include "main.hpp"
+
+namespace mpi = boost::mpi;
+unsigned int MASTER = 0;
+unsigned int TAG0 = 0;
+unsigned int TAG1 = 1;
+unsigned int TAG2 = 2;
 
 std::vector<std::vector<std::string>> make_ngrams(std::vector<std::string>& corpus, unsigned int n) {
 	
@@ -64,7 +75,7 @@ std::string random_word(std::vector<std::string>& words, std::vector<int>& count
 	return words[i];
 }
 
-std::string make_random_text(Node * root, unsigned int nwords, unsigned int ngram_size) {
+std::string make_random_text(Node * root, unsigned int nwords, unsigned int ngram_size, mpi::communicator comm) {
 	Node * current_node;
 	std::vector<std::string> final_text_vector;
 	std::string new_word = "";
@@ -81,6 +92,15 @@ std::string make_random_text(Node * root, unsigned int nwords, unsigned int ngra
 
 		while(level < ngram_size) {
 
+			std::string word;
+
+			/*
+				In each node, create a vector with words and a vector with counts.
+				These vectors are then going to be sent to the master node, joined,
+				and counts vector will be used to select a value based on weights
+				(the counts). Finally, words will be used to select a word based on
+				that count.
+			*/
 			std::vector<std::string> words;
 			std::vector<int> counts;
 
@@ -89,7 +109,38 @@ std::string make_random_text(Node * root, unsigned int nwords, unsigned int ngra
 				counts.push_back(it->second->get_count());
 			}
 
-			std::string word = random_word(words, counts);
+			// If I'm inside a worker node, send the vectors to master
+			// Lastly, receive last selected word to start new traversal
+			if(comm.rank() > 0) {
+				comm.send(MASTER, TAG0, words);
+				comm.send(MASTER, TAG1, counts);
+				comm.recv(MASTER, TAG2, word);
+			}
+			// If I'm inside master node, join all received vectors and select a random word
+			else {
+				unsigned rank;
+				// Join vectors, exclude master node
+				for(rank = 1; rank < comm.size(); rank++) {
+					std::vector<std::string> recv_words;
+					std::vector<int> recv_counts;
+
+					comm.recv(rank, TAG0, recv_words);
+					comm.recv(rank, TAG1, recv_counts);
+
+					words.insert(words.end(), recv_words.begin(), recv_words.end());
+					counts.insert(counts.end(), recv_counts.begin(), recv_counts.end());
+				}
+
+				// Select word
+				word = random_word(words, counts);
+
+				// Send selected word to all workers so they all traverse same ngram in the next iteration
+				for(rank = 1; rank < comm.size(); rank++) { 
+                    comm.send(rank, TAG2, word);
+                }      
+			}
+
+			// Add selected word to text
 			final_text_vector.push_back(word);
 
 			current_node = current_node->children[word];
@@ -124,14 +175,20 @@ int main(int argc, char const *argv[]) {
 	} else {
 		XML_FILE = "../xml/wikidump-tiny.xml";
 	}
+
+	mpi::environment env;
+	mpi::communicator comm;
 	
 	std::vector<std::string> tokenized_corpus = read_xml(XML_FILE);
 
 	ngrams ngrams           = make_ngrams(tokenized_corpus, NGRAM_SIZE);
 	ngram_frequency_map nfm = make_nfm(ngrams);
 	Node * trie             = make_trie(nfm);
+	std::string random_text = make_random_text(trie, N_WORDS, NGRAM_SIZE, comm);
 
-	std::cout << make_random_text(trie, N_WORDS, NGRAM_SIZE) << std::endl;
+	if(comm.rank() == 0) {
+		std::cout << random_text << std::endl;
+	}
 
     return 0;
     

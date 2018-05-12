@@ -1,4 +1,4 @@
-CC = g++
+CC = mpic++
 CFLAGS = -g -Wall -pedantic --std=c++11
 LIB_DIR = ../lib
 LIBS = pugixml
@@ -7,7 +7,7 @@ INC_FLAG = -I$(INC_DIR) $(foreach lib, $(LIBS), -I$(LIB_DIR)/$(lib))
 EXEC = wikigen
 
 all: pugixml.o tokenizer.o node.o trie.o main.o
-	$(CC) $(CFLAGS) $^ -o $(EXEC)
+	$(CC) $(CFLAGS) $^ -o $(EXEC) -lboost_mpi -lboost_serialization
 
 %.o: %.cpp
 	$(CC) $(CFLAGS) $(INC_FLAG) -c $< -o $@
